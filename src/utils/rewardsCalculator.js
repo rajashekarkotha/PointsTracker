@@ -1,10 +1,18 @@
+import dayjs from 'dayjs';
+
 const TIER_TWO_THRESHOLD = 50;
 const TIER_THREE_THRESHOLD = 100;
 const TIER_TWO_RATE = 1;
 const TIER_THREE_RATE = 2;
 
 export const calculateTransactionPoints = (amount) => {
-  if (typeof amount !== 'number' || Number.isNaN(amount) || amount <= 0) {
+  if (typeof amount !== 'number' || Number.isNaN(amount)) {
+    throw new Error(
+      `calculateTransactionPoints: expected a number, received ${JSON.stringify(amount)}`
+    );
+  }
+
+  if (amount <= 0) {
     return 0;
   }
 
@@ -18,22 +26,25 @@ export const calculateTransactionPoints = (amount) => {
   return Math.floor(tierTwoPoints + tierThreePoints);
 };
 
+export const getCustomerDisplayName = (transaction) =>
+  transaction.customerName ??
+  `${transaction.firstName ?? ''} ${transaction.lastName ?? ''}`.trim();
+
 export const attachRewardPoints = (transactions = []) =>
   transactions.map((transaction) => ({
     ...transaction,
+    customerName: getCustomerDisplayName(transaction),
     rewardPoints: calculateTransactionPoints(transaction.price),
   }));
 
 export const buildMonthKey = (year, month) =>
   `${year}-${String(month).padStart(2, '0')}`;
 
-export const aggregateMonthlyRewards = (transactions = []) => {
-  const withPoints = attachRewardPoints(transactions);
-
-  const monthlyTotals = withPoints.reduce((accumulator, transaction) => {
-    const purchaseDate = new Date(transaction.purchaseDate);
-    const year = purchaseDate.getFullYear();
-    const month = purchaseDate.getMonth() + 1; // JS months are 0-indexed
+export const aggregateMonthlyRewards = (transactionsWithPoints = []) => {
+  const monthlyTotals = transactionsWithPoints.reduce((accumulator, transaction) => {
+    const purchaseDate = dayjs(transaction.purchaseDate);
+    const year = purchaseDate.year();
+    const month = purchaseDate.month() + 1; // dayjs months are 0-indexed
     const key = `${transaction.customerId}-${buildMonthKey(year, month)}`;
 
     const existing = accumulator[key];
@@ -43,7 +54,7 @@ export const aggregateMonthlyRewards = (transactions = []) => {
       ...accumulator,
       [key]: {
         customerId: transaction.customerId,
-        name: transaction.customerName,
+        name: getCustomerDisplayName(transaction),
         month,
         year,
         rewardPoints: pointsSoFar + transaction.rewardPoints,
@@ -54,10 +65,8 @@ export const aggregateMonthlyRewards = (transactions = []) => {
   return Object.values(monthlyTotals);
 };
 
-export const aggregateTotalRewards = (transactions = []) => {
-  const withPoints = attachRewardPoints(transactions);
-
-  const totalsByCustomer = withPoints.reduce((accumulator, transaction) => {
+export const aggregateTotalRewards = (transactionsWithPoints = []) => {
+  const totalsByCustomer = transactionsWithPoints.reduce((accumulator, transaction) => {
     const existing = accumulator[transaction.customerId];
     const pointsSoFar = existing ? existing.rewardPoints : 0;
 
@@ -65,7 +74,7 @@ export const aggregateTotalRewards = (transactions = []) => {
       ...accumulator,
       [transaction.customerId]: {
         customerId: transaction.customerId,
-        name: transaction.customerName,
+        name: getCustomerDisplayName(transaction),
         rewardPoints: pointsSoFar + transaction.rewardPoints,
       },
     };

@@ -4,7 +4,16 @@ import {
   aggregateMonthlyRewards,
   aggregateTotalRewards,
   buildMonthKey,
+  getCustomerDisplayName,
 } from '../utils/rewardsCalculator';
+
+describe('getCustomerDisplayName', () => {
+  it('derives a display name from separate firstName/lastName fields', () => {
+    expect(getCustomerDisplayName({ firstName: 'Priya', lastName: 'Sharma' })).toBe(
+      'Priya Sharma'
+    );
+  });
+});
 
 describe('calculateTransactionPoints', () => {
   it('awards 0 points for purchases of $50 or less', () => {
@@ -29,11 +38,14 @@ describe('calculateTransactionPoints', () => {
     expect(calculateTransactionPoints(100.4)).toBe(50);
   });
 
-  it('treats negative, NaN, or non-numeric input as 0 points', () => {
+  it('treats a negative amount as a valid zero-point purchase', () => {
     expect(calculateTransactionPoints(-50)).toBe(0);
-    expect(calculateTransactionPoints(NaN)).toBe(0);
-    expect(calculateTransactionPoints(undefined)).toBe(0);
-    expect(calculateTransactionPoints('120')).toBe(0);
+  });
+
+  it('throws for genuinely invalid input instead of silently returning 0', () => {
+    expect(() => calculateTransactionPoints(NaN)).toThrow();
+    expect(() => calculateTransactionPoints(undefined)).toThrow();
+    expect(() => calculateTransactionPoints('120')).toThrow();
   });
 
   it('does not mutate its input', () => {
@@ -68,12 +80,12 @@ describe('attachRewardPoints', () => {
 });
 
 describe('aggregateMonthlyRewards', () => {
-  const transactions = [
+  const transactions = attachRewardPoints([
     { customerId: 'C1', customerName: 'Ada Lovelace', purchaseDate: '2023-12-05', price: 120 },
     { customerId: 'C1', customerName: 'Ada Lovelace', purchaseDate: '2023-12-20', price: 80 },
     { customerId: 'C1', customerName: 'Ada Lovelace', purchaseDate: '2024-01-10', price: 60 },
     { customerId: 'C2', customerName: 'Grace Hopper', purchaseDate: '2024-01-15', price: 200 },
-  ];
+  ]);
 
   it('sums points per customer, per month AND year (not just month)', () => {
     const result = aggregateMonthlyRewards(transactions);
@@ -92,10 +104,10 @@ describe('aggregateMonthlyRewards', () => {
   });
 
   it('keeps December of one year separate from December of another year', () => {
-    const crossYear = [
+    const crossYear = attachRewardPoints([
       { customerId: 'C1', customerName: 'Ada Lovelace', purchaseDate: '2022-12-05', price: 100 },
       { customerId: 'C1', customerName: 'Ada Lovelace', purchaseDate: '2023-12-05', price: 200 },
-    ];
+    ]);
     const result = aggregateMonthlyRewards(crossYear);
     expect(result).toHaveLength(2);
   });
@@ -112,11 +124,11 @@ describe('aggregateMonthlyRewards', () => {
 });
 
 describe('aggregateTotalRewards', () => {
-  const transactions = [
+  const transactions = attachRewardPoints([
     { customerId: 'C1', customerName: 'Ada Lovelace', purchaseDate: '2023-12-05', price: 120 },
     { customerId: 'C1', customerName: 'Ada Lovelace', purchaseDate: '2024-01-10', price: 60 },
     { customerId: 'C2', customerName: 'Grace Hopper', purchaseDate: '2024-01-15', price: 200 },
-  ];
+  ]);
 
   it('sums every transaction for a customer across all months/years', () => {
     const result = aggregateTotalRewards(transactions);

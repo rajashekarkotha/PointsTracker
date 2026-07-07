@@ -1,8 +1,12 @@
+import { vi } from 'vitest';
 import {
   getMonthName,
   sortByYearThenMonth,
   sortByPurchaseDate,
+  formatLocalizedDate,
+  isWithinDateRange,
 } from '../utils/dateUtils';
+import logger from '../utils/logger';
 
 describe('getMonthName', () => {
   it('maps 1-indexed month numbers to names', () => {
@@ -58,5 +62,38 @@ describe('sortByPurchaseDate', () => {
     const original = [...transactions];
     sortByPurchaseDate(transactions);
     expect(transactions).toEqual(original);
+  });
+});
+
+describe('formatLocalizedDate', () => {
+  it('formats a valid ISO date', () => {
+    expect(formatLocalizedDate('2024-02-14')).toBe('02/14/2024');
+  });
+
+  it('logs a warning and returns a fallback for an invalid date instead of swallowing the error', () => {
+    const warnSpy = vi.spyOn(logger, 'warn').mockImplementation(() => {});
+    expect(formatLocalizedDate('not-a-date')).toBe('—');
+    expect(warnSpy).toHaveBeenCalled();
+    warnSpy.mockRestore();
+  });
+});
+
+describe('isWithinDateRange', () => {
+  it('returns true when no bounds are provided', () => {
+    expect(isWithinDateRange('2024-02-14', '', '')).toBe(true);
+  });
+
+  it('respects a start-date lower bound', () => {
+    expect(isWithinDateRange('2024-02-14', '2024-02-15', '')).toBe(false);
+    expect(isWithinDateRange('2024-02-14', '2024-02-14', '')).toBe(true);
+  });
+
+  it('respects an end-date upper bound', () => {
+    expect(isWithinDateRange('2024-02-14', '', '2024-02-13')).toBe(false);
+    expect(isWithinDateRange('2024-02-14', '', '2024-02-14')).toBe(true);
+  });
+
+  it('returns false for an invalid date', () => {
+    expect(isWithinDateRange('not-a-date', '', '')).toBe(false);
   });
 });

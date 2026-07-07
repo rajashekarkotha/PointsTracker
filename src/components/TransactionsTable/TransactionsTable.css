@@ -1,0 +1,62 @@
+.transactions-table__toolbar {
+  flex-wrap: wrap;
+  row-gap: 0.75rem;
+}
+
+.transactions-table__field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.transactions-table__field--inline {
+  flex-direction: row;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.transactions-table__field input,
+.transactions-table__field select {
+  background: var(--color-surface-raised);
+  color: var(--color-text);
+  border: 1px solid var(--color-border);
+  border-radius: 6px;
+  padding: 0.4rem 0.6rem;
+  font-family: inherit;
+}
+
+.transactions-table__pagination {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 1rem;
+  font-size: 0.85rem;
+  color: var(--color-muted);
+}
+
+.transactions-table__pagination-buttons {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.transactions-table__pagination-buttons button {
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+  color: var(--color-text);
+  border-radius: 6px;
+  padding: 0.4rem 0.8rem;
+  font-family: inherit;
+  cursor: pointer;
+}
+
+.transactions-table__pagination-buttons button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.transactions-table__pagination-buttons button:not(:disabled):hover {
+  background: var(--color-accent-soft);
+}

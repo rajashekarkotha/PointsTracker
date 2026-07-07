@@ -1,0 +1,3152 @@
+[
+  {
+    "transactionId": "TXN-1140",
+    "customerId": "CUST-08",
+    "firstName": "Aiko",
+    "lastName": "Tanaka",
+    "purchaseDate": "2026-04-07",
+    "productPurchased": "Coffee Maker",
+    "price": 82.5
+  },
+  {
+    "transactionId": "TXN-1225",
+    "customerId": "CUST-05",
+    "firstName": "Wei",
+    "lastName": "Chen",
+    "purchaseDate": "2026-04-07",
+    "productPurchased": "Monitor Stand",
+    "price": 73.44
+  },
+  {
+    "transactionId": "TXN-1236",
+    "customerId": "CUST-10",
+    "firstName": "Ingrid",
+    "lastName": "Larsen",
+    "purchaseDate": "2026-04-07",
+    "productPurchased": "Electric Kettle",
+    "price": 26.07
+  },
+  {
+    "transactionId": "TXN-1286",
+    "customerId": "CUST-10",
+    "firstName": "Ingrid",
+    "lastName": "Larsen",
+    "purchaseDate": "2026-04-07",
+    "productPurchased": "Webcam",
+    "price": 188.35
+  },
+  {
+    "transactionId": "TXN-1040",
+    "customerId": "CUST-08",
+    "firstName": "Aiko",
+    "lastName": "Tanaka",
+    "purchaseDate": "2026-04-08",
+    "productPurchased": "Mechanical Keyboard",
+    "price": 51.19
+  },
+  {
+    "transactionId": "TXN-1054",
+    "customerId": "CUST-02",
+    "firstName": "Daniel",
+    "lastName": "Okafor",
+    "purchaseDate": "2026-04-08",
+    "productPurchased": "Bluetooth Speaker",
+    "price": 87.31
+  },
+  {
+    "transactionId": "TXN-1097",
+    "customerId": "CUST-09",
+    "firstName": "Noah",
+    "lastName": "Berg",
+    "purchaseDate": "2026-04-08",
+    "productPurchased": "Electric Kettle",
+    "price": 222.44
+  },
+  {
+    "transactionId": "TXN-1099",
+    "customerId": "CUST-09",
+    "firstName": "Noah",
+    "lastName": "Berg",
+    "purchaseDate": "2026-04-08",
+    "productPurchased": "Blender",
+    "price": 234.01
+  },
+  {
+    "transactionId": "TXN-1124",
+    "customerId": "CUST-04",
+    "firstName": "James",
+    "lastName": "Whitfield",
+    "purchaseDate": "2026-04-08",
+    "productPurchased": "Office Chair",
+    "price": 225.75
+  },
+  {
+    "transactionId": "TXN-1181",
+    "customerId": "CUST-08",
+    "firstName": "Aiko",
+    "lastName": "Tanaka",
+    "purchaseDate": "2026-04-08",
+    "productPurchased": "Desk Lamp",
+    "price": 170.15
+  },
+  {
+    "transactionId": "TXN-1201",
+    "customerId": "CUST-04",
+    "firstName": "James",
+    "lastName": "Whitfield",
+    "purchaseDate": "2026-04-08",
+    "productPurchased": "Reading Lamp",
+    "price": 32.93
+  },
+  {
+    "transactionId": "TXN-1172",
+    "customerId": "CUST-07",
+    "firstName": "Liam",
+    "lastName": "O'Connor",
+    "purchaseDate": "2026-04-09",
+    "productPurchased": "External Hard Drive",
+    "price": 171.84
+  },
+  {
+    "transactionId": "TXN-1023",
+    "customerId": "CUST-10",
+    "firstName": "Ingrid",
+    "lastName": "Larsen",
+    "purchaseDate": "2026-04-10",
+    "productPurchased": "Standing Desk",
+    "price": 141.54
+  },
+  {
+    "transactionId": "TXN-1070",
+    "customerId": "CUST-01",
+    "firstName": "Priya",
+    "lastName": "Sharma",
+    "purchaseDate": "2026-04-10",
+    "productPurchased": "Air Fryer",
+    "price": 165.87
+  },
+  {
+    "transactionId": "TXN-1131",
+    "customerId": "CUST-08",
+    "firstName": "Aiko",
+    "lastName": "Tanaka",
+    "purchaseDate": "2026-04-10",
+    "productPurchased": "Water Bottle",
+    "price": 102.72
+  },
+  {
+    "transactionId": "TXN-1137",
+    "customerId": "CUST-04",
+    "firstName": "James",
+    "lastName": "Whitfield",
+    "purchaseDate": "2026-04-10",
+    "productPurchased": "Blender",
+    "price": 193.25
+  },
+  {
+    "transactionId": "TXN-1177",
+    "customerId": "CUST-01",
+    "firstName": "Priya",
+    "lastName": "Sharma",
+    "purchaseDate": "2026-04-10",
+    "productPurchased": "Running Shoes",
+    "price": 227.24
+  },
+  {
+    "transactionId": "TXN-1082",
+    "customerId": "CUST-09",
+    "firstName": "Noah",
+    "lastName": "Berg",
+    "purchaseDate": "2026-04-11",
+    "productPurchased": "Running Shoes",
+    "price": 243.17
+  },
+  {
+    "transactionId": "TXN-1118",
+    "customerId": "CUST-04",
+    "firstName": "James",
+    "lastName": "Whitfield",
+    "purchaseDate": "2026-04-11",
+    "productPurchased": "Monitor Stand",
+    "price": 220.6
+  },
+  {
+    "transactionId": "TXN-1147",
+    "customerId": "CUST-08",
+    "firstName": "Aiko",
+    "lastName": "Tanaka",
+    "purchaseDate": "2026-04-11",
+    "productPurchased": "Standing Desk",
+    "price": 129.49
+  },
+  {
+    "transactionId": "TXN-1030",
+    "customerId": "CUST-01",
+    "firstName": "Priya",
+    "lastName": "Sharma",
+    "purchaseDate": "2026-04-12",
+    "productPurchased": "Wireless Headphones",
+    "price": 53.51
+  },
+  {
+    "transactionId": "TXN-1184",
+    "customerId": "CUST-10",
+    "firstName": "Ingrid",
+    "lastName": "Larsen",
+    "purchaseDate": "2026-04-12",
+    "productPurchased": "Wireless Mouse",
+    "price": 198.9
+  },
+  {
+    "transactionId": "TXN-1196",
+    "customerId": "CUST-07",
+    "firstName": "Liam",
+    "lastName": "O'Connor",
+    "purchaseDate": "2026-04-12",
+    "productPurchased": "Standing Desk",
+    "price": 246.04
+  },
+  {
+    "transactionId": "TXN-1273",
+    "customerId": "CUST-03",
+    "firstName": "Maria",
+    "lastName": "Gonzalez",
+    "purchaseDate": "2026-04-12",
+    "productPurchased": "Running Shoes",
+    "price": 89.93
+  },
+  {
+    "transactionId": "TXN-1065",
+    "customerId": "CUST-08",
+    "firstName": "Aiko",
+    "lastName": "Tanaka",
+    "purchaseDate": "2026-04-13",
+    "productPurchased": "Wireless Headphones",
+    "price": 125.28
+  },
+  {
+    "transactionId": "TXN-1267",
+    "customerId": "CUST-05",
+    "firstName": "Wei",
+    "lastName": "Chen",
+    "purchaseDate": "2026-04-13",
+    "productPurchased": "Notebook Set",
+    "price": 223.07
+  },
+  {
+    "transactionId": "TXN-1160",
+    "customerId": "CUST-05",
+    "firstName": "Wei",
+    "lastName": "Chen",
+    "purchaseDate": "2026-04-14",
+    "productPurchased": "Webcam",
+    "price": 47.24
+  },
+  {
+    "transactionId": "TXN-1197",
+    "customerId": "CUST-09",
+    "firstName": "Noah",
+    "lastName": "Berg",
+    "purchaseDate": "2026-04-14",
+    "productPurchased": "Webcam",
+    "price": 210.35
+  },
+  {
+    "transactionId": "TXN-1220",
+    "customerId": "CUST-03",
+    "firstName": "Maria",
+    "lastName": "Gonzalez",
+    "purchaseDate": "2026-04-14",
+    "productPurchased": "Wireless Mouse",
+    "price": 216.56
+  },
+  {
+    "transactionId": "TXN-1039",
+    "customerId": "CUST-04",
+    "firstName": "James",
+    "lastName": "Whitfield",
+    "purchaseDate": "2026-04-15",
+    "productPurchased": "Electric Kettle",
+    "price": 155.64
+  },
+  {
+    "transactionId": "TXN-1134",
+    "customerId": "CUST-06",
+    "firstName": "Fatima",
+    "lastName": "Al-Sayed",
+    "purchaseDate": "2026-04-15",
+    "productPurchased": "Water Bottle",
+    "price": 80.01
+  },
+  {
+    "transactionId": "TXN-1275",
+    "customerId": "CUST-08",
+    "firstName": "Aiko",
+    "lastName": "Tanaka",
+    "purchaseDate": "2026-04-15",
+    "productPurchased": "Standing Desk",
+    "price": 151.2
+  },
+  {
+    "transactionId": "TXN-1095",
+    "customerId": "CUST-05",
+    "firstName": "Wei",
+    "lastName": "Chen",
+    "purchaseDate": "2026-04-16",
+    "productPurchased": "External Hard Drive",
+    "price": 90.03
+  },
+  {
+    "transactionId": "TXN-1122",
+    "customerId": "CUST-07",
+    "firstName": "Liam",
+    "lastName": "O'Connor",
+    "purchaseDate": "2026-04-16",
+    "productPurchased": "Coffee Maker",
+    "price": 40.36
+  },
+  {
+    "transactionId": "TXN-1199",
+    "customerId": "CUST-10",
+    "firstName": "Ingrid",
+    "lastName": "Larsen",
+    "purchaseDate": "2026-04-16",
+    "productPurchased": "Bluetooth Speaker",
+    "price": 49.2
+  },
+  {
+    "transactionId": "TXN-1227",
+    "customerId": "CUST-04",
+    "firstName": "James",
+    "lastName": "Whitfield",
+    "purchaseDate": "2026-04-16",
+    "productPurchased": "External Hard Drive",
+    "price": 216.55
+  },
+  {
+    "transactionId": "TXN-1066",
+    "customerId": "CUST-08",
+    "firstName": "Aiko",
+    "lastName": "Tanaka",
+    "purchaseDate": "2026-04-17",
+    "productPurchased": "Standing Desk",
+    "price": 59.82
+  },
+  {
+    "transactionId": "TXN-1013",
+    "customerId": "CUST-06",
+    "firstName": "Fatima",
+    "lastName": "Al-Sayed",
+    "purchaseDate": "2026-04-18",
+    "productPurchased": "Standing Desk",
+    "price": 113.18
+  },
+  {
+    "transactionId": "TXN-1021",
+    "customerId": "CUST-01",
+    "firstName": "Priya",
+    "lastName": "Sharma",
+    "purchaseDate": "2026-04-18",
+    "productPurchased": "Monitor Stand",
+    "price": 192.35
+  },
+  {
+    "transactionId": "TXN-1064",
+    "customerId": "CUST-03",
+    "firstName": "Maria",
+    "lastName": "Gonzalez",
+    "purchaseDate": "2026-04-18",
+    "productPurchased": "Gaming Chair",
+    "price": 66.86
+  },
+  {
+    "transactionId": "TXN-1072",
+    "customerId": "CUST-06",
+    "firstName": "Fatima",
+    "lastName": "Al-Sayed",
+    "purchaseDate": "2026-04-18",
+    "productPurchased": "Wireless Headphones",
+    "price": 23.44
+  },
+  {
+    "transactionId": "TXN-1261",
+    "customerId": "CUST-03",
+    "firstName": "Maria",
+    "lastName": "Gonzalez",
+    "purchaseDate": "2026-04-18",
+    "productPurchased": "Coffee Maker",
+    "price": 131.48
+  },
+  {
+    "transactionId": "TXN-1272",
+    "customerId": "CUST-01",
+    "firstName": "Priya",
+    "lastName": "Sharma",
+    "purchaseDate": "2026-04-18",
+    "productPurchased": "Blender",
+    "price": 170.23
+  },
+  {
+    "transactionId": "TXN-1315",
+    "customerId": "CUST-03",
+    "firstName": "Maria",
+    "lastName": "Gonzalez",
+    "purchaseDate": "2026-04-18",
+    "productPurchased": "Reading Lamp",
+    "price": 63.72
+  },
+  {
+    "transactionId": "TXN-1043",
+    "customerId": "CUST-07",
+    "firstName": "Liam",
+    "lastName": "O'Connor",
+    "purchaseDate": "2026-04-19",
+    "productPurchased": "Wireless Headphones",
+    "price": 121.32
+  },
+  {
+    "transactionId": "TXN-1059",
+    "customerId": "CUST-10",
+    "firstName": "Ingrid",
+    "lastName": "Larsen",
+    "purchaseDate": "2026-04-19",
+    "productPurchased": "Desk Organizer",
+    "price": 10.81
+  },
+  {
+    "transactionId": "TXN-1135",
+    "customerId": "CUST-03",
+    "firstName": "Maria",
+    "lastName": "Gonzalez",
+    "purchaseDate": "2026-04-19",
+    "productPurchased": "Monitor Stand",
+    "price": 169
+  },
+  {
+    "transactionId": "TXN-1283",
+    "customerId": "CUST-02",
+    "firstName": "Daniel",
+    "lastName": "Okafor",
+    "purchaseDate": "2026-04-19",
+    "productPurchased": "Noise-Cancelling Earbuds",
+    "price": 131.91
+  },
+  {
+    "transactionId": "TXN-1017",
+    "customerId": "CUST-09",
+    "firstName": "Noah",
+    "lastName": "Berg",
+    "purchaseDate": "2026-04-21",
+    "productPurchased": "External Hard Drive",
+    "price": 32.82
+  },
+  {
+    "transactionId": "TXN-1167",
+    "customerId": "CUST-04",
+    "firstName": "James",
+    "lastName": "Whitfield",
+    "purchaseDate": "2026-04-21",
+    "productPurchased": "Noise-Cancelling Earbuds",
+    "price": 201.8
+  },
+  {
+    "transactionId": "TXN-1248",
+    "customerId": "CUST-01",
+    "firstName": "Priya",
+    "lastName": "Sharma",
+    "purchaseDate": "2026-04-21",
+    "productPurchased": "Office Chair",
+    "price": 64.12
+  },
+  {
+    "transactionId": "TXN-1307",
+    "customerId": "CUST-08",
+    "firstName": "Aiko",
+    "lastName": "Tanaka",
+    "purchaseDate": "2026-04-21",
+    "productPurchased": "Mechanical Keyboard",
+    "price": 47.31
+  },
+  {
+    "transactionId": "TXN-1087",
+    "customerId": "CUST-06",
+    "firstName": "Fatima",
+    "lastName": "Al-Sayed",
+    "purchaseDate": "2026-04-22",
+    "productPurchased": "Running Shoes",
+    "price": 135.93
+  },
+  {
+    "transactionId": "TXN-1244",
+    "customerId": "CUST-06",
+    "firstName": "Fatima",
+    "lastName": "Al-Sayed",
+    "purchaseDate": "2026-04-22",
+    "productPurchased": "Monitor Stand",
+    "price": 193.53
+  },
+  {
+    "transactionId": "TXN-1260",
+    "customerId": "CUST-05",
+    "firstName": "Wei",
+    "lastName": "Chen",
+    "purchaseDate": "2026-04-22",
+    "productPurchased": "Monitor Stand",
+    "price": 169.31
+  },
+  {
+    "transactionId": "TXN-1274",
+    "customerId": "CUST-09",
+    "firstName": "Noah",
+    "lastName": "Berg",
+    "purchaseDate": "2026-04-22",
+    "productPurchased": "Webcam",
+    "price": 79.97
+  },
+  {
+    "transactionId": "TXN-1308",
+    "customerId": "CUST-05",
+    "firstName": "Wei",
+    "lastName": "Chen",
+    "purchaseDate": "2026-04-22",
+    "productPurchased": "Office Chair",
+    "price": 198
+  },
+  {
+    "transactionId": "TXN-1132",
+    "customerId": "CUST-08",
+    "firstName": "Aiko",
+    "lastName": "Tanaka",
+    "purchaseDate": "2026-04-23",
+    "productPurchased": "Gaming Chair",
+    "price": 164.11
+  },
+  {
+    "transactionId": "TXN-1163",
+    "customerId": "CUST-08",
+    "firstName": "Aiko",
+    "lastName": "Tanaka",
+    "purchaseDate": "2026-04-23",
+    "productPurchased": "Webcam",
+    "price": 249.49
+  },
+  {
+    "transactionId": "TXN-1278",
+    "customerId": "CUST-07",
+    "firstName": "Liam",
+    "lastName": "O'Connor",
+    "purchaseDate": "2026-04-23",
+    "productPurchased": "Desk Organizer",
+    "price": 121.93
+  },
+  {
+    "transactionId": "TXN-1304",
+    "customerId": "CUST-04",
+    "firstName": "James",
+    "lastName": "Whitfield",
+    "purchaseDate": "2026-04-23",
+    "productPurchased": "Wireless Headphones",
+    "price": 220.29
+  },
+  {
+    "transactionId": "TXN-1158",
+    "customerId": "CUST-10",
+    "firstName": "Ingrid",
+    "lastName": "Larsen",
+    "purchaseDate": "2026-04-25",
+    "productPurchased": "Monitor Stand",
+    "price": 90.31
+  },
+  {
+    "transactionId": "TXN-1176",
+    "customerId": "CUST-01",
+    "firstName": "Priya",
+    "lastName": "Sharma",
+    "purchaseDate": "2026-04-25",
+    "productPurchased": "Electric Kettle",
+    "price": 13.44
+  },
+  {
+    "transactionId": "TXN-1218",
+    "customerId": "CUST-05",
+    "firstName": "Wei",
+    "lastName": "Chen",
+    "purchaseDate": "2026-04-25",
+    "productPurchased": "Coffee Maker",
+    "price": 196.21
+  },
+  {
+    "transactionId": "TXN-1279",
+    "customerId": "CUST-09",
+    "firstName": "Noah",
+    "lastName": "Berg",
+    "purchaseDate": "2026-04-25",
+    "productPurchased": "Backpack",
+    "price": 108.13
+  },
+  {
+    "transactionId": "TXN-1341",
+    "customerId": "CUST-06",
+    "firstName": "Fatima",
+    "lastName": "Al-Sayed",
+    "purchaseDate": "2026-04-25",
+    "productPurchased": "Desk Organizer",
+    "price": 15.44
+  },
+  {
+    "transactionId": "TXN-1156",
+    "customerId": "CUST-04",
+    "firstName": "James",
+    "lastName": "Whitfield",
+    "purchaseDate": "2026-04-26",
+    "productPurchased": "Standing Desk",
+    "price": 183.07
+  },
+  {
+    "transactionId": "TXN-1213",
+    "customerId": "CUST-05",
+    "firstName": "Wei",
+    "lastName": "Chen",
+    "purchaseDate": "2026-04-26",
+    "productPurchased": "Water Bottle",
+    "price": 201.35
+  },
+  {
+    "transactionId": "TXN-1129",
+    "customerId": "CUST-06",
+    "firstName": "Fatima",
+    "lastName": "Al-Sayed",
+    "purchaseDate": "2026-04-27",
+    "productPurchased": "Wireless Mouse",
+    "price": 215.94
+  },
+  {
+    "transactionId": "TXN-1212",
+    "customerId": "CUST-02",
+    "firstName": "Daniel",
+    "lastName": "Okafor",
+    "purchaseDate": "2026-04-27",
+    "productPurchased": "Backpack",
+    "price": 14.42
+  },
+  {
+    "transactionId": "TXN-1010",
+    "customerId": "CUST-08",
+    "firstName": "Aiko",
+    "lastName": "Tanaka",
+    "purchaseDate": "2026-04-28",
+    "productPurchased": "Gaming Chair",
+    "price": 190.51
+  },
+  {
+    "transactionId": "TXN-1019",
+    "customerId": "CUST-06",
+    "firstName": "Fatima",
+    "lastName": "Al-Sayed",
+    "purchaseDate": "2026-04-28",
+    "productPurchased": "Office Chair",
+    "price": 160.52
+  },
+  {
+    "transactionId": "TXN-1298",
+    "customerId": "CUST-05",
+    "firstName": "Wei",
+    "lastName": "Chen",
+    "purchaseDate": "2026-04-28",
+    "productPurchased": "Bluetooth Speaker",
+    "price": 203.54
+  },
+  {
+    "transactionId": "TXN-1219",
+    "customerId": "CUST-06",
+    "firstName": "Fatima",
+    "lastName": "Al-Sayed",
+    "purchaseDate": "2026-04-29",
+    "productPurchased": "Phone Stand",
+    "price": 45.3
+  },
+  {
+    "transactionId": "TXN-1295",
+    "customerId": "CUST-05",
+    "firstName": "Wei",
+    "lastName": "Chen",
+    "purchaseDate": "2026-04-29",
+    "productPurchased": "Air Fryer",
+    "price": 217.3
+  },
+  {
+    "transactionId": "TXN-1302",
+    "customerId": "CUST-08",
+    "firstName": "Aiko",
+    "lastName": "Tanaka",
+    "purchaseDate": "2026-04-29",
+    "productPurchased": "Standing Desk",
+    "price": 231.43
+  },
+  {
+    "transactionId": "TXN-1322",
+    "customerId": "CUST-01",
+    "firstName": "Priya",
+    "lastName": "Sharma",
+    "purchaseDate": "2026-04-29",
+    "productPurchased": "Noise-Cancelling Earbuds",
+    "price": 177.51
+  },
+  {
+    "transactionId": "TXN-1050",
+    "customerId": "CUST-01",
+    "firstName": "Priya",
+    "lastName": "Sharma",
+    "purchaseDate": "2026-04-30",
+    "productPurchased": "Desk Lamp",
+    "price": 32.08
+  },
+  {
+    "transactionId": "TXN-1071",
+    "customerId": "CUST-09",
+    "firstName": "Noah",
+    "lastName": "Berg",
+    "purchaseDate": "2026-04-30",
+    "productPurchased": "Bluetooth Speaker",
+    "price": 101.78
+  },
+  {
+    "transactionId": "TXN-1142",
+    "customerId": "CUST-02",
+    "firstName": "Daniel",
+    "lastName": "Okafor",
+    "purchaseDate": "2026-04-30",
+    "productPurchased": "Wireless Headphones",
+    "price": 54.77
+  },
+  {
+    "transactionId": "TXN-1150",
+    "customerId": "CUST-02",
+    "firstName": "Daniel",
+    "lastName": "Okafor",
+    "purchaseDate": "2026-04-30",
+    "productPurchased": "Wireless Mouse",
+    "price": 159.4
+  },
+  {
+    "transactionId": "TXN-1159",
+    "customerId": "CUST-09",
+    "firstName": "Noah",
+    "lastName": "Berg",
+    "purchaseDate": "2026-04-30",
+    "productPurchased": "Desk Organizer",
+    "price": 79.18
+  },
+  {
+    "transactionId": "TXN-1179",
+    "customerId": "CUST-09",
+    "firstName": "Noah",
+    "lastName": "Berg",
+    "purchaseDate": "2026-04-30",
+    "productPurchased": "Office Chair",
+    "price": 48.64
+  },
+  {
+    "transactionId": "TXN-1234",
+    "customerId": "CUST-08",
+    "firstName": "Aiko",
+    "lastName": "Tanaka",
+    "purchaseDate": "2026-04-30",
+    "productPurchased": "Noise-Cancelling Earbuds",
+    "price": 201.24
+  },
+  {
+    "transactionId": "TXN-1246",
+    "customerId": "CUST-10",
+    "firstName": "Ingrid",
+    "lastName": "Larsen",
+    "purchaseDate": "2026-04-30",
+    "productPurchased": "External Hard Drive",
+    "price": 110.02
+  },
+  {
+    "transactionId": "TXN-1266",
+    "customerId": "CUST-09",
+    "firstName": "Noah",
+    "lastName": "Berg",
+    "purchaseDate": "2026-04-30",
+    "productPurchased": "Air Fryer",
+    "price": 238.59
+  },
+  {
+    "transactionId": "TXN-1004",
+    "customerId": "CUST-01",
+    "firstName": "Priya",
+    "lastName": "Sharma",
+    "purchaseDate": "2026-05-01",
+    "productPurchased": "Monitor Stand",
+    "price": 102.48
+  },
+  {
+    "transactionId": "TXN-1327",
+    "customerId": "CUST-04",
+    "firstName": "James",
+    "lastName": "Whitfield",
+    "purchaseDate": "2026-05-01",
+    "productPurchased": "Reading Lamp",
+    "price": 11.83
+  },
+  {
+    "transactionId": "TXN-1047",
+    "customerId": "CUST-03",
+    "firstName": "Maria",
+    "lastName": "Gonzalez",
+    "purchaseDate": "2026-05-02",
+    "productPurchased": "Webcam",
+    "price": 78.35
+  },
+  {
+    "transactionId": "TXN-1058",
+    "customerId": "CUST-06",
+    "firstName": "Fatima",
+    "lastName": "Al-Sayed",
+    "purchaseDate": "2026-05-02",
+    "productPurchased": "Desk Organizer",
+    "price": 185.21
+  },
+  {
+    "transactionId": "TXN-1104",
+    "customerId": "CUST-06",
+    "firstName": "Fatima",
+    "lastName": "Al-Sayed",
+    "purchaseDate": "2026-05-02",
+    "productPurchased": "Desk Lamp",
+    "price": 141.87
+  },
+  {
+    "transactionId": "TXN-1126",
+    "customerId": "CUST-08",
+    "firstName": "Aiko",
+    "lastName": "Tanaka",
+    "purchaseDate": "2026-05-02",
+    "productPurchased": "Desk Lamp",
+    "price": 180.9
+  },
+  {
+    "transactionId": "TXN-1145",
+    "customerId": "CUST-07",
+    "firstName": "Liam",
+    "lastName": "O'Connor",
+    "purchaseDate": "2026-05-02",
+    "productPurchased": "Blender",
+    "price": 235.15
+  },
+  {
+    "transactionId": "TXN-1148",
+    "customerId": "CUST-04",
+    "firstName": "James",
+    "lastName": "Whitfield",
+    "purchaseDate": "2026-05-02",
+    "productPurchased": "Water Bottle",
+    "price": 145.03
+  },
+  {
+    "transactionId": "TXN-1154",
+    "customerId": "CUST-08",
+    "firstName": "Aiko",
+    "lastName": "Tanaka",
+    "purchaseDate": "2026-05-02",
+    "productPurchased": "Wireless Mouse",
+    "price": 84.32
+  },
+  {
+    "transactionId": "TXN-1191",
+    "customerId": "CUST-10",
+    "firstName": "Ingrid",
+    "lastName": "Larsen",
+    "purchaseDate": "2026-05-02",
+    "productPurchased": "Webcam",
+    "price": 126.52
+  },
+  {
+    "transactionId": "TXN-1241",
+    "customerId": "CUST-08",
+    "firstName": "Aiko",
+    "lastName": "Tanaka",
+    "purchaseDate": "2026-05-02",
+    "productPurchased": "Air Fryer",
+    "price": 148.97
+  },
+  {
+    "transactionId": "TXN-1281",
+    "customerId": "CUST-09",
+    "firstName": "Noah",
+    "lastName": "Berg",
+    "purchaseDate": "2026-05-02",
+    "productPurchased": "Office Chair",
+    "price": 143.89
+  },
+  {
+    "transactionId": "TXN-1347",
+    "customerId": "CUST-03",
+    "firstName": "Maria",
+    "lastName": "Gonzalez",
+    "purchaseDate": "2026-05-02",
+    "productPurchased": "Water Bottle",
+    "price": 104.75
+  },
+  {
+    "transactionId": "TXN-1116",
+    "customerId": "CUST-03",
+    "firstName": "Maria",
+    "lastName": "Gonzalez",
+    "purchaseDate": "2026-05-03",
+    "productPurchased": "Standing Desk",
+    "price": 51.11
+  },
+  {
+    "transactionId": "TXN-1146",
+    "customerId": "CUST-02",
+    "firstName": "Daniel",
+    "lastName": "Okafor",
+    "purchaseDate": "2026-05-03",
+    "productPurchased": "Yoga Mat",
+    "price": 92.72
+  },
+  {
+    "transactionId": "TXN-1202",
+    "customerId": "CUST-09",
+    "firstName": "Noah",
+    "lastName": "Berg",
+    "purchaseDate": "2026-05-03",
+    "productPurchased": "Air Fryer",
+    "price": 183.58
+  },
+  {
+    "transactionId": "TXN-1228",
+    "customerId": "CUST-01",
+    "firstName": "Priya",
+    "lastName": "Sharma",
+    "purchaseDate": "2026-05-03",
+    "productPurchased": "Blender",
+    "price": 225.48
+  },
+  {
+    "transactionId": "TXN-1245",
+    "customerId": "CUST-10",
+    "firstName": "Ingrid",
+    "lastName": "Larsen",
+    "purchaseDate": "2026-05-03",
+    "productPurchased": "Noise-Cancelling Earbuds",
+    "price": 153.79
+  },
+  {
+    "transactionId": "TXN-1271",
+    "customerId": "CUST-07",
+    "firstName": "Liam",
+    "lastName": "O'Connor",
+    "purchaseDate": "2026-05-03",
+    "productPurchased": "Notebook Set",
+    "price": 20.81
+  },
+  {
+    "transactionId": "TXN-1306",
+    "customerId": "CUST-05",
+    "firstName": "Wei",
+    "lastName": "Chen",
+    "purchaseDate": "2026-05-03",
+    "productPurchased": "Running Shoes",
+    "price": 183.31
+  },
+  {
+    "transactionId": "TXN-1006",
+    "customerId": "CUST-05",
+    "firstName": "Wei",
+    "lastName": "Chen",
+    "purchaseDate": "2026-05-04",
+    "productPurchased": "Wireless Headphones",
+    "price": 67.6
+  },
+  {
+    "transactionId": "TXN-1155",
+    "customerId": "CUST-04",
+    "firstName": "James",
+    "lastName": "Whitfield",
+    "purchaseDate": "2026-05-04",
+    "productPurchased": "Wireless Mouse",
+    "price": 143.42
+  },
+  {
+    "transactionId": "TXN-1198",
+    "customerId": "CUST-08",
+    "firstName": "Aiko",
+    "lastName": "Tanaka",
+    "purchaseDate": "2026-05-04",
+    "productPurchased": "Yoga Mat",
+    "price": 179.08
+  },
+  {
+    "transactionId": "TXN-1211",
+    "customerId": "CUST-05",
+    "firstName": "Wei",
+    "lastName": "Chen",
+    "purchaseDate": "2026-05-04",
+    "productPurchased": "Blender",
+    "price": 201.37
+  },
+  {
+    "transactionId": "TXN-1333",
+    "customerId": "CUST-06",
+    "firstName": "Fatima",
+    "lastName": "Al-Sayed",
+    "purchaseDate": "2026-05-04",
+    "productPurchased": "Notebook Set",
+    "price": 110.37
+  },
+  {
+    "transactionId": "TXN-1102",
+    "customerId": "CUST-05",
+    "firstName": "Wei",
+    "lastName": "Chen",
+    "purchaseDate": "2026-05-05",
+    "productPurchased": "Phone Stand",
+    "price": 167.19
+  },
+  {
+    "transactionId": "TXN-1151",
+    "customerId": "CUST-09",
+    "firstName": "Noah",
+    "lastName": "Berg",
+    "purchaseDate": "2026-05-05",
+    "productPurchased": "Reading Lamp",
+    "price": 21.63
+  },
+  {
+    "transactionId": "TXN-1242",
+    "customerId": "CUST-05",
+    "firstName": "Wei",
+    "lastName": "Chen",
+    "purchaseDate": "2026-05-05",
+    "productPurchased": "External Hard Drive",
+    "price": 127.06
+  },
+  {
+    "transactionId": "TXN-1256",
+    "customerId": "CUST-01",
+    "firstName": "Priya",
+    "lastName": "Sharma",
+    "purchaseDate": "2026-05-05",
+    "productPurchased": "Office Chair",
+    "price": 146.12
+  },
+  {
+    "transactionId": "TXN-1317",
+    "customerId": "CUST-07",
+    "firstName": "Liam",
+    "lastName": "O'Connor",
+    "purchaseDate": "2026-05-05",
+    "productPurchased": "Water Bottle",
+    "price": 116.07
+  },
+  {
+    "transactionId": "TXN-1330",
+    "customerId": "CUST-06",
+    "firstName": "Fatima",
+    "lastName": "Al-Sayed",
+    "purchaseDate": "2026-05-05",
+    "productPurchased": "Desk Organizer",
+    "price": 83.04
+  },
+  {
+    "transactionId": "TXN-1086",
+    "customerId": "CUST-09",
+    "firstName": "Noah",
+    "lastName": "Berg",
+    "purchaseDate": "2026-05-06",
+    "productPurchased": "Desk Lamp",
+    "price": 182.4
+  },
+  {
+    "transactionId": "TXN-1329",
+    "customerId": "CUST-06",
+    "firstName": "Fatima",
+    "lastName": "Al-Sayed",
+    "purchaseDate": "2026-05-06",
+    "productPurchased": "Standing Desk",
+    "price": 90.69
+  },
+  {
+    "transactionId": "TXN-1015",
+    "customerId": "CUST-06",
+    "firstName": "Fatima",
+    "lastName": "Al-Sayed",
+    "purchaseDate": "2026-05-07",
+    "productPurchased": "Desk Organizer",
+    "price": 226.94
+  },
+  {
+    "transactionId": "TXN-1111",
+    "customerId": "CUST-10",
+    "firstName": "Ingrid",
+    "lastName": "Larsen",
+    "purchaseDate": "2026-05-07",
+    "productPurchased": "Wireless Mouse",
+    "price": 129.91
+  },
+  {
+    "transactionId": "TXN-1208",
+    "customerId": "CUST-10",
+    "firstName": "Ingrid",
+    "lastName": "Larsen",
+    "purchaseDate": "2026-05-07",
+    "productPurchased": "Backpack",
+    "price": 38.61
+  },
+  {
+    "transactionId": "TXN-1296",
+    "customerId": "CUST-10",
+    "firstName": "Ingrid",
+    "lastName": "Larsen",
+    "purchaseDate": "2026-05-07",
+    "productPurchased": "Running Shoes",
+    "price": 169.85
+  },
+  {
+    "transactionId": "TXN-1300",
+    "customerId": "CUST-06",
+    "firstName": "Fatima",
+    "lastName": "Al-Sayed",
+    "purchaseDate": "2026-05-07",
+    "productPurchased": "Mechanical Keyboard",
+    "price": 81.57
+  },
+  {
+    "transactionId": "TXN-1001",
+    "customerId": "CUST-06",
+    "firstName": "Fatima",
+    "lastName": "Al-Sayed",
+    "purchaseDate": "2026-05-08",
+    "productPurchased": "Air Fryer",
+    "price": 31.39
+  },
+  {
+    "transactionId": "TXN-1025",
+    "customerId": "CUST-09",
+    "firstName": "Noah",
+    "lastName": "Berg",
+    "purchaseDate": "2026-05-08",
+    "productPurchased": "Noise-Cancelling Earbuds",
+    "price": 33.21
+  },
+  {
+    "transactionId": "TXN-1206",
+    "customerId": "CUST-02",
+    "firstName": "Daniel",
+    "lastName": "Okafor",
+    "purchaseDate": "2026-05-08",
+    "productPurchased": "Standing Desk",
+    "price": 92.57
+  },
+  {
+    "transactionId": "TXN-1008",
+    "customerId": "CUST-03",
+    "firstName": "Maria",
+    "lastName": "Gonzalez",
+    "purchaseDate": "2026-05-09",
+    "productPurchased": "Backpack",
+    "price": 94.13
+  },
+  {
+    "transactionId": "TXN-1068",
+    "customerId": "CUST-09",
+    "firstName": "Noah",
+    "lastName": "Berg",
+    "purchaseDate": "2026-05-09",
+    "productPurchased": "Backpack",
+    "price": 181.51
+  },
+  {
+    "transactionId": "TXN-1110",
+    "customerId": "CUST-04",
+    "firstName": "James",
+    "lastName": "Whitfield",
+    "purchaseDate": "2026-05-09",
+    "productPurchased": "Webcam",
+    "price": 90.65
+  },
+  {
+    "transactionId": "TXN-1285",
+    "customerId": "CUST-03",
+    "firstName": "Maria",
+    "lastName": "Gonzalez",
+    "purchaseDate": "2026-05-10",
+    "productPurchased": "Wireless Headphones",
+    "price": 115.07
+  },
+  {
+    "transactionId": "TXN-1101",
+    "customerId": "CUST-02",
+    "firstName": "Daniel",
+    "lastName": "Okafor",
+    "purchaseDate": "2026-05-11",
+    "productPurchased": "Desk Lamp",
+    "price": 179.99
+  },
+  {
+    "transactionId": "TXN-1103",
+    "customerId": "CUST-10",
+    "firstName": "Ingrid",
+    "lastName": "Larsen",
+    "purchaseDate": "2026-05-11",
+    "productPurchased": "Office Chair",
+    "price": 116.71
+  },
+  {
+    "transactionId": "TXN-1114",
+    "customerId": "CUST-02",
+    "firstName": "Daniel",
+    "lastName": "Okafor",
+    "purchaseDate": "2026-05-11",
+    "productPurchased": "Desk Lamp",
+    "price": 186.47
+  },
+  {
+    "transactionId": "TXN-1224",
+    "customerId": "CUST-08",
+    "firstName": "Aiko",
+    "lastName": "Tanaka",
+    "purchaseDate": "2026-05-11",
+    "productPurchased": "Electric Kettle",
+    "price": 225.53
+  },
+  {
+    "transactionId": "TXN-1349",
+    "customerId": "CUST-06",
+    "firstName": "Fatima",
+    "lastName": "Al-Sayed",
+    "purchaseDate": "2026-05-11",
+    "productPurchased": "Monitor Stand",
+    "price": 125.75
+  },
+  {
+    "transactionId": "TXN-1003",
+    "customerId": "CUST-03",
+    "firstName": "Maria",
+    "lastName": "Gonzalez",
+    "purchaseDate": "2026-05-12",
+    "productPurchased": "Desk Lamp",
+    "price": 16.84
+  },
+  {
+    "transactionId": "TXN-1075",
+    "customerId": "CUST-01",
+    "firstName": "Priya",
+    "lastName": "Sharma",
+    "purchaseDate": "2026-05-12",
+    "productPurchased": "Office Chair",
+    "price": 130.77
+  },
+  {
+    "transactionId": "TXN-1187",
+    "customerId": "CUST-04",
+    "firstName": "James",
+    "lastName": "Whitfield",
+    "purchaseDate": "2026-05-12",
+    "productPurchased": "Notebook Set",
+    "price": 38.07
+  },
+  {
+    "transactionId": "TXN-1195",
+    "customerId": "CUST-03",
+    "firstName": "Maria",
+    "lastName": "Gonzalez",
+    "purchaseDate": "2026-05-12",
+    "productPurchased": "Standing Desk",
+    "price": 200.58
+  },
+  {
+    "transactionId": "TXN-1294",
+    "customerId": "CUST-03",
+    "firstName": "Maria",
+    "lastName": "Gonzalez",
+    "purchaseDate": "2026-05-12",
+    "productPurchased": "Desk Lamp",
+    "price": 168.15
+  },
+  {
+    "transactionId": "TXN-1038",
+    "customerId": "CUST-08",
+    "firstName": "Aiko",
+    "lastName": "Tanaka",
+    "purchaseDate": "2026-05-13",
+    "productPurchased": "Air Fryer",
+    "price": 221.44
+  },
+  {
+    "transactionId": "TXN-1060",
+    "customerId": "CUST-10",
+    "firstName": "Ingrid",
+    "lastName": "Larsen",
+    "purchaseDate": "2026-05-13",
+    "productPurchased": "Noise-Cancelling Earbuds",
+    "price": 127.57
+  },
+  {
+    "transactionId": "TXN-1061",
+    "customerId": "CUST-03",
+    "firstName": "Maria",
+    "lastName": "Gonzalez",
+    "purchaseDate": "2026-05-13",
+    "productPurchased": "Phone Stand",
+    "price": 29.38
+  },
+  {
+    "transactionId": "TXN-1188",
+    "customerId": "CUST-10",
+    "firstName": "Ingrid",
+    "lastName": "Larsen",
+    "purchaseDate": "2026-05-13",
+    "productPurchased": "Monitor Stand",
+    "price": 189.14
+  },
+  {
+    "transactionId": "TXN-1216",
+    "customerId": "CUST-03",
+    "firstName": "Maria",
+    "lastName": "Gonzalez",
+    "purchaseDate": "2026-05-13",
+    "productPurchased": "Noise-Cancelling Earbuds",
+    "price": 230.95
+  },
+  {
+    "transactionId": "TXN-1232",
+    "customerId": "CUST-05",
+    "firstName": "Wei",
+    "lastName": "Chen",
+    "purchaseDate": "2026-05-13",
+    "productPurchased": "Blender",
+    "price": 159.36
+  },
+  {
+    "transactionId": "TXN-1258",
+    "customerId": "CUST-06",
+    "firstName": "Fatima",
+    "lastName": "Al-Sayed",
+    "purchaseDate": "2026-05-13",
+    "productPurchased": "Bluetooth Speaker",
+    "price": 108.3
+  },
+  {
+    "transactionId": "TXN-1263",
+    "customerId": "CUST-10",
+    "firstName": "Ingrid",
+    "lastName": "Larsen",
+    "purchaseDate": "2026-05-13",
+    "productPurchased": "Coffee Maker",
+    "price": 217.16
+  },
+  {
+    "transactionId": "TXN-1018",
+    "customerId": "CUST-02",
+    "firstName": "Daniel",
+    "lastName": "Okafor",
+    "purchaseDate": "2026-05-14",
+    "productPurchased": "Standing Desk",
+    "price": 29.61
+  },
+  {
+    "transactionId": "TXN-1028",
+    "customerId": "CUST-05",
+    "firstName": "Wei",
+    "lastName": "Chen",
+    "purchaseDate": "2026-05-14",
+    "productPurchased": "External Hard Drive",
+    "price": 36.72
+  },
+  {
+    "transactionId": "TXN-1276",
+    "customerId": "CUST-05",
+    "firstName": "Wei",
+    "lastName": "Chen",
+    "purchaseDate": "2026-05-14",
+    "productPurchased": "External Hard Drive",
+    "price": 84.08
+  },
+  {
+    "transactionId": "TXN-1076",
+    "customerId": "CUST-02",
+    "firstName": "Daniel",
+    "lastName": "Okafor",
+    "purchaseDate": "2026-05-15",
+    "productPurchased": "Standing Desk",
+    "price": 143.24
+  },
+  {
+    "transactionId": "TXN-1081",
+    "customerId": "CUST-04",
+    "firstName": "James",
+    "lastName": "Whitfield",
+    "purchaseDate": "2026-05-15",
+    "productPurchased": "Desk Lamp",
+    "price": 165.74
+  },
+  {
+    "transactionId": "TXN-1108",
+    "customerId": "CUST-04",
+    "firstName": "James",
+    "lastName": "Whitfield",
+    "purchaseDate": "2026-05-15",
+    "productPurchased": "Monitor Stand",
+    "price": 155.15
+  },
+  {
+    "transactionId": "TXN-1119",
+    "customerId": "CUST-07",
+    "firstName": "Liam",
+    "lastName": "O'Connor",
+    "purchaseDate": "2026-05-15",
+    "productPurchased": "Blender",
+    "price": 144.49
+  },
+  {
+    "transactionId": "TXN-1309",
+    "customerId": "CUST-04",
+    "firstName": "James",
+    "lastName": "Whitfield",
+    "purchaseDate": "2026-05-15",
+    "productPurchased": "Standing Desk",
+    "price": 50.4
+  },
+  {
+    "transactionId": "TXN-1316",
+    "customerId": "CUST-05",
+    "firstName": "Wei",
+    "lastName": "Chen",
+    "purchaseDate": "2026-05-15",
+    "productPurchased": "Gaming Chair",
+    "price": 189.73
+  },
+  {
+    "transactionId": "TXN-1346",
+    "customerId": "CUST-04",
+    "firstName": "James",
+    "lastName": "Whitfield",
+    "purchaseDate": "2026-05-15",
+    "productPurchased": "External Hard Drive",
+    "price": 207.73
+  },
+  {
+    "transactionId": "TXN-1041",
+    "customerId": "CUST-05",
+    "firstName": "Wei",
+    "lastName": "Chen",
+    "purchaseDate": "2026-05-16",
+    "productPurchased": "Reading Lamp",
+    "price": 97.84
+  },
+  {
+    "transactionId": "TXN-1175",
+    "customerId": "CUST-06",
+    "firstName": "Fatima",
+    "lastName": "Al-Sayed",
+    "purchaseDate": "2026-05-16",
+    "productPurchased": "Yoga Mat",
+    "price": 61.41
+  },
+  {
+    "transactionId": "TXN-1192",
+    "customerId": "CUST-10",
+    "firstName": "Ingrid",
+    "lastName": "Larsen",
+    "purchaseDate": "2026-05-16",
+    "productPurchased": "Notebook Set",
+    "price": 140.56
+  },
+  {
+    "transactionId": "TXN-1321",
+    "customerId": "CUST-10",
+    "firstName": "Ingrid",
+    "lastName": "Larsen",
+    "purchaseDate": "2026-05-16",
+    "productPurchased": "Coffee Maker",
+    "price": 79.31
+  },
+  {
+    "transactionId": "TXN-1313",
+    "customerId": "CUST-05",
+    "firstName": "Wei",
+    "lastName": "Chen",
+    "purchaseDate": "2026-05-17",
+    "productPurchased": "Coffee Maker",
+    "price": 132.14
+  },
+  {
+    "transactionId": "TXN-1345",
+    "customerId": "CUST-08",
+    "firstName": "Aiko",
+    "lastName": "Tanaka",
+    "purchaseDate": "2026-05-17",
+    "productPurchased": "Notebook Set",
+    "price": 133.94
+  },
+  {
+    "transactionId": "TXN-1035",
+    "customerId": "CUST-09",
+    "firstName": "Noah",
+    "lastName": "Berg",
+    "purchaseDate": "2026-05-18",
+    "productPurchased": "Electric Kettle",
+    "price": 96.1
+  },
+  {
+    "transactionId": "TXN-1174",
+    "customerId": "CUST-07",
+    "firstName": "Liam",
+    "lastName": "O'Connor",
+    "purchaseDate": "2026-05-18",
+    "productPurchased": "Yoga Mat",
+    "price": 106.63
+  },
+  {
+    "transactionId": "TXN-1186",
+    "customerId": "CUST-05",
+    "firstName": "Wei",
+    "lastName": "Chen",
+    "purchaseDate": "2026-05-18",
+    "productPurchased": "Electric Kettle",
+    "price": 184.11
+  },
+  {
+    "transactionId": "TXN-1207",
+    "customerId": "CUST-09",
+    "firstName": "Noah",
+    "lastName": "Berg",
+    "purchaseDate": "2026-05-18",
+    "productPurchased": "Desk Organizer",
+    "price": 206.08
+  },
+  {
+    "transactionId": "TXN-1257",
+    "customerId": "CUST-09",
+    "firstName": "Noah",
+    "lastName": "Berg",
+    "purchaseDate": "2026-05-18",
+    "productPurchased": "Office Chair",
+    "price": 229.59
+  },
+  {
+    "transactionId": "TXN-1269",
+    "customerId": "CUST-01",
+    "firstName": "Priya",
+    "lastName": "Sharma",
+    "purchaseDate": "2026-05-18",
+    "productPurchased": "Wireless Mouse",
+    "price": 120.68
+  },
+  {
+    "transactionId": "TXN-1323",
+    "customerId": "CUST-01",
+    "firstName": "Priya",
+    "lastName": "Sharma",
+    "purchaseDate": "2026-05-18",
+    "productPurchased": "Reading Lamp",
+    "price": 151.4
+  },
+  {
+    "transactionId": "TXN-1012",
+    "customerId": "CUST-03",
+    "firstName": "Maria",
+    "lastName": "Gonzalez",
+    "purchaseDate": "2026-05-19",
+    "productPurchased": "Standing Desk",
+    "price": 205.44
+  },
+  {
+    "transactionId": "TXN-1046",
+    "customerId": "CUST-02",
+    "firstName": "Daniel",
+    "lastName": "Okafor",
+    "purchaseDate": "2026-05-19",
+    "productPurchased": "Standing Desk",
+    "price": 84.67
+  },
+  {
+    "transactionId": "TXN-1221",
+    "customerId": "CUST-08",
+    "firstName": "Aiko",
+    "lastName": "Tanaka",
+    "purchaseDate": "2026-05-19",
+    "productPurchased": "Reading Lamp",
+    "price": 206.28
+  },
+  {
+    "transactionId": "TXN-1299",
+    "customerId": "CUST-01",
+    "firstName": "Priya",
+    "lastName": "Sharma",
+    "purchaseDate": "2026-05-19",
+    "productPurchased": "Air Fryer",
+    "price": 47.84
+  },
+  {
+    "transactionId": "TXN-1312",
+    "customerId": "CUST-03",
+    "firstName": "Maria",
+    "lastName": "Gonzalez",
+    "purchaseDate": "2026-05-19",
+    "productPurchased": "Standing Desk",
+    "price": 192.44
+  },
+  {
+    "transactionId": "TXN-1348",
+    "customerId": "CUST-03",
+    "firstName": "Maria",
+    "lastName": "Gonzalez",
+    "purchaseDate": "2026-05-19",
+    "productPurchased": "Wireless Mouse",
+    "price": 240.37
+  },
+  {
+    "transactionId": "TXN-1026",
+    "customerId": "CUST-03",
+    "firstName": "Maria",
+    "lastName": "Gonzalez",
+    "purchaseDate": "2026-05-21",
+    "productPurchased": "Wireless Mouse",
+    "price": 239.98
+  },
+  {
+    "transactionId": "TXN-1037",
+    "customerId": "CUST-03",
+    "firstName": "Maria",
+    "lastName": "Gonzalez",
+    "purchaseDate": "2026-05-21",
+    "productPurchased": "Phone Stand",
+    "price": 198.62
+  },
+  {
+    "transactionId": "TXN-1045",
+    "customerId": "CUST-10",
+    "firstName": "Ingrid",
+    "lastName": "Larsen",
+    "purchaseDate": "2026-05-21",
+    "productPurchased": "Webcam",
+    "price": 223.9
+  },
+  {
+    "transactionId": "TXN-1153",
+    "customerId": "CUST-06",
+    "firstName": "Fatima",
+    "lastName": "Al-Sayed",
+    "purchaseDate": "2026-05-21",
+    "productPurchased": "Noise-Cancelling Earbuds",
+    "price": 182.56
+  },
+  {
+    "transactionId": "TXN-1168",
+    "customerId": "CUST-04",
+    "firstName": "James",
+    "lastName": "Whitfield",
+    "purchaseDate": "2026-05-21",
+    "productPurchased": "Standing Desk",
+    "price": 172.69
+  },
+  {
+    "transactionId": "TXN-1044",
+    "customerId": "CUST-03",
+    "firstName": "Maria",
+    "lastName": "Gonzalez",
+    "purchaseDate": "2026-05-22",
+    "productPurchased": "Standing Desk",
+    "price": 171.5
+  },
+  {
+    "transactionId": "TXN-1107",
+    "customerId": "CUST-05",
+    "firstName": "Wei",
+    "lastName": "Chen",
+    "purchaseDate": "2026-05-22",
+    "productPurchased": "Electric Kettle",
+    "price": 212.77
+  },
+  {
+    "transactionId": "TXN-1215",
+    "customerId": "CUST-05",
+    "firstName": "Wei",
+    "lastName": "Chen",
+    "purchaseDate": "2026-05-22",
+    "productPurchased": "Phone Stand",
+    "price": 117.22
+  },
+  {
+    "transactionId": "TXN-1280",
+    "customerId": "CUST-09",
+    "firstName": "Noah",
+    "lastName": "Berg",
+    "purchaseDate": "2026-05-22",
+    "productPurchased": "Notebook Set",
+    "price": 37.31
+  },
+  {
+    "transactionId": "TXN-1325",
+    "customerId": "CUST-04",
+    "firstName": "James",
+    "lastName": "Whitfield",
+    "purchaseDate": "2026-05-22",
+    "productPurchased": "Monitor Stand",
+    "price": 104.92
+  },
+  {
+    "transactionId": "TXN-1014",
+    "customerId": "CUST-10",
+    "firstName": "Ingrid",
+    "lastName": "Larsen",
+    "purchaseDate": "2026-05-23",
+    "productPurchased": "Running Shoes",
+    "price": 249.3
+  },
+  {
+    "transactionId": "TXN-1098",
+    "customerId": "CUST-07",
+    "firstName": "Liam",
+    "lastName": "O'Connor",
+    "purchaseDate": "2026-05-23",
+    "productPurchased": "Backpack",
+    "price": 14.02
+  },
+  {
+    "transactionId": "TXN-1210",
+    "customerId": "CUST-10",
+    "firstName": "Ingrid",
+    "lastName": "Larsen",
+    "purchaseDate": "2026-05-23",
+    "productPurchased": "Standing Desk",
+    "price": 37.54
+  },
+  {
+    "transactionId": "TXN-1056",
+    "customerId": "CUST-04",
+    "firstName": "James",
+    "lastName": "Whitfield",
+    "purchaseDate": "2026-05-24",
+    "productPurchased": "Monitor Stand",
+    "price": 12.28
+  },
+  {
+    "transactionId": "TXN-1089",
+    "customerId": "CUST-02",
+    "firstName": "Daniel",
+    "lastName": "Okafor",
+    "purchaseDate": "2026-05-24",
+    "productPurchased": "Wireless Mouse",
+    "price": 143.79
+  },
+  {
+    "transactionId": "TXN-1239",
+    "customerId": "CUST-05",
+    "firstName": "Wei",
+    "lastName": "Chen",
+    "purchaseDate": "2026-05-24",
+    "productPurchased": "Backpack",
+    "price": 206.97
+  },
+  {
+    "transactionId": "TXN-1319",
+    "customerId": "CUST-09",
+    "firstName": "Noah",
+    "lastName": "Berg",
+    "purchaseDate": "2026-05-24",
+    "productPurchased": "Air Fryer",
+    "price": 32.71
+  },
+  {
+    "transactionId": "TXN-1079",
+    "customerId": "CUST-03",
+    "firstName": "Maria",
+    "lastName": "Gonzalez",
+    "purchaseDate": "2026-05-25",
+    "productPurchased": "Wireless Mouse",
+    "price": 235.67
+  },
+  {
+    "transactionId": "TXN-1290",
+    "customerId": "CUST-05",
+    "firstName": "Wei",
+    "lastName": "Chen",
+    "purchaseDate": "2026-05-25",
+    "productPurchased": "Desk Lamp",
+    "price": 179.5
+  },
+  {
+    "transactionId": "TXN-1053",
+    "customerId": "CUST-03",
+    "firstName": "Maria",
+    "lastName": "Gonzalez",
+    "purchaseDate": "2026-05-26",
+    "productPurchased": "Desk Organizer",
+    "price": 91.53
+  },
+  {
+    "transactionId": "TXN-1067",
+    "customerId": "CUST-03",
+    "firstName": "Maria",
+    "lastName": "Gonzalez",
+    "purchaseDate": "2026-05-26",
+    "productPurchased": "Gaming Chair",
+    "price": 54.45
+  },
+  {
+    "transactionId": "TXN-1032",
+    "customerId": "CUST-04",
+    "firstName": "James",
+    "lastName": "Whitfield",
+    "purchaseDate": "2026-05-27",
+    "productPurchased": "Coffee Maker",
+    "price": 117.57
+  },
+  {
+    "transactionId": "TXN-1139",
+    "customerId": "CUST-05",
+    "firstName": "Wei",
+    "lastName": "Chen",
+    "purchaseDate": "2026-05-27",
+    "productPurchased": "External Hard Drive",
+    "price": 10.48
+  },
+  {
+    "transactionId": "TXN-1171",
+    "customerId": "CUST-06",
+    "firstName": "Fatima",
+    "lastName": "Al-Sayed",
+    "purchaseDate": "2026-05-27",
+    "productPurchased": "Running Shoes",
+    "price": 119.97
+  },
+  {
+    "transactionId": "TXN-1222",
+    "customerId": "CUST-05",
+    "firstName": "Wei",
+    "lastName": "Chen",
+    "purchaseDate": "2026-05-27",
+    "productPurchased": "Mechanical Keyboard",
+    "price": 118.54
+  },
+  {
+    "transactionId": "TXN-1007",
+    "customerId": "CUST-01",
+    "firstName": "Priya",
+    "lastName": "Sharma",
+    "purchaseDate": "2026-05-28",
+    "productPurchased": "Running Shoes",
+    "price": 156.41
+  },
+  {
+    "transactionId": "TXN-1024",
+    "customerId": "CUST-01",
+    "firstName": "Priya",
+    "lastName": "Sharma",
+    "purchaseDate": "2026-05-28",
+    "productPurchased": "Office Chair",
+    "price": 227.06
+  },
+  {
+    "transactionId": "TXN-1091",
+    "customerId": "CUST-09",
+    "firstName": "Noah",
+    "lastName": "Berg",
+    "purchaseDate": "2026-05-28",
+    "productPurchased": "Backpack",
+    "price": 70.21
+  },
+  {
+    "transactionId": "TXN-1204",
+    "customerId": "CUST-06",
+    "firstName": "Fatima",
+    "lastName": "Al-Sayed",
+    "purchaseDate": "2026-05-28",
+    "productPurchased": "Air Fryer",
+    "price": 213.52
+  },
+  {
+    "transactionId": "TXN-1243",
+    "customerId": "CUST-02",
+    "firstName": "Daniel",
+    "lastName": "Okafor",
+    "purchaseDate": "2026-05-28",
+    "productPurchased": "External Hard Drive",
+    "price": 27.78
+  },
+  {
+    "transactionId": "TXN-1259",
+    "customerId": "CUST-05",
+    "firstName": "Wei",
+    "lastName": "Chen",
+    "purchaseDate": "2026-05-28",
+    "productPurchased": "Webcam",
+    "price": 75.41
+  },
+  {
+    "transactionId": "TXN-1310",
+    "customerId": "CUST-03",
+    "firstName": "Maria",
+    "lastName": "Gonzalez",
+    "purchaseDate": "2026-05-28",
+    "productPurchased": "Mechanical Keyboard",
+    "price": 67.35
+  },
+  {
+    "transactionId": "TXN-1350",
+    "customerId": "CUST-05",
+    "firstName": "Wei",
+    "lastName": "Chen",
+    "purchaseDate": "2026-05-28",
+    "productPurchased": "Phone Stand",
+    "price": 49.41
+  },
+  {
+    "transactionId": "TXN-1063",
+    "customerId": "CUST-02",
+    "firstName": "Daniel",
+    "lastName": "Okafor",
+    "purchaseDate": "2026-05-29",
+    "productPurchased": "Noise-Cancelling Earbuds",
+    "price": 72.19
+  },
+  {
+    "transactionId": "TXN-1141",
+    "customerId": "CUST-03",
+    "firstName": "Maria",
+    "lastName": "Gonzalez",
+    "purchaseDate": "2026-05-29",
+    "productPurchased": "Monitor Stand",
+    "price": 94.96
+  },
+  {
+    "transactionId": "TXN-1009",
+    "customerId": "CUST-01",
+    "firstName": "Priya",
+    "lastName": "Sharma",
+    "purchaseDate": "2026-05-30",
+    "productPurchased": "Office Chair",
+    "price": 50.83
+  },
+  {
+    "transactionId": "TXN-1250",
+    "customerId": "CUST-10",
+    "firstName": "Ingrid",
+    "lastName": "Larsen",
+    "purchaseDate": "2026-05-30",
+    "productPurchased": "Mechanical Keyboard",
+    "price": 57.22
+  },
+  {
+    "transactionId": "TXN-1083",
+    "customerId": "CUST-01",
+    "firstName": "Priya",
+    "lastName": "Sharma",
+    "purchaseDate": "2026-05-31",
+    "productPurchased": "Backpack",
+    "price": 236.11
+  },
+  {
+    "transactionId": "TXN-1332",
+    "customerId": "CUST-08",
+    "firstName": "Aiko",
+    "lastName": "Tanaka",
+    "purchaseDate": "2026-05-31",
+    "productPurchased": "Desk Organizer",
+    "price": 10.13
+  },
+  {
+    "transactionId": "TXN-1048",
+    "customerId": "CUST-06",
+    "firstName": "Fatima",
+    "lastName": "Al-Sayed",
+    "purchaseDate": "2026-06-01",
+    "productPurchased": "Water Bottle",
+    "price": 73.42
+  },
+  {
+    "transactionId": "TXN-1237",
+    "customerId": "CUST-04",
+    "firstName": "James",
+    "lastName": "Whitfield",
+    "purchaseDate": "2026-06-01",
+    "productPurchased": "Running Shoes",
+    "price": 39.22
+  },
+  {
+    "transactionId": "TXN-1282",
+    "customerId": "CUST-02",
+    "firstName": "Daniel",
+    "lastName": "Okafor",
+    "purchaseDate": "2026-06-01",
+    "productPurchased": "Blender",
+    "price": 174.37
+  },
+  {
+    "transactionId": "TXN-1164",
+    "customerId": "CUST-03",
+    "firstName": "Maria",
+    "lastName": "Gonzalez",
+    "purchaseDate": "2026-06-02",
+    "productPurchased": "Electric Kettle",
+    "price": 150.64
+  },
+  {
+    "transactionId": "TXN-1251",
+    "customerId": "CUST-07",
+    "firstName": "Liam",
+    "lastName": "O'Connor",
+    "purchaseDate": "2026-06-02",
+    "productPurchased": "Yoga Mat",
+    "price": 200.85
+  },
+  {
+    "transactionId": "TXN-1301",
+    "customerId": "CUST-06",
+    "firstName": "Fatima",
+    "lastName": "Al-Sayed",
+    "purchaseDate": "2026-06-02",
+    "productPurchased": "Backpack",
+    "price": 237.86
+  },
+  {
+    "transactionId": "TXN-1090",
+    "customerId": "CUST-04",
+    "firstName": "James",
+    "lastName": "Whitfield",
+    "purchaseDate": "2026-06-03",
+    "productPurchased": "Water Bottle",
+    "price": 208.76
+  },
+  {
+    "transactionId": "TXN-1123",
+    "customerId": "CUST-09",
+    "firstName": "Noah",
+    "lastName": "Berg",
+    "purchaseDate": "2026-06-03",
+    "productPurchased": "External Hard Drive",
+    "price": 44.72
+  },
+  {
+    "transactionId": "TXN-1127",
+    "customerId": "CUST-02",
+    "firstName": "Daniel",
+    "lastName": "Okafor",
+    "purchaseDate": "2026-06-03",
+    "productPurchased": "Electric Kettle",
+    "price": 222.45
+  },
+  {
+    "transactionId": "TXN-1289",
+    "customerId": "CUST-06",
+    "firstName": "Fatima",
+    "lastName": "Al-Sayed",
+    "purchaseDate": "2026-06-03",
+    "productPurchased": "Webcam",
+    "price": 54.84
+  },
+  {
+    "transactionId": "TXN-1336",
+    "customerId": "CUST-09",
+    "firstName": "Noah",
+    "lastName": "Berg",
+    "purchaseDate": "2026-06-03",
+    "productPurchased": "Phone Stand",
+    "price": 65.02
+  },
+  {
+    "transactionId": "TXN-1033",
+    "customerId": "CUST-04",
+    "firstName": "James",
+    "lastName": "Whitfield",
+    "purchaseDate": "2026-06-04",
+    "productPurchased": "Standing Desk",
+    "price": 74.48
+  },
+  {
+    "transactionId": "TXN-1105",
+    "customerId": "CUST-08",
+    "firstName": "Aiko",
+    "lastName": "Tanaka",
+    "purchaseDate": "2026-06-04",
+    "productPurchased": "Noise-Cancelling Earbuds",
+    "price": 77.64
+  },
+  {
+    "transactionId": "TXN-1112",
+    "customerId": "CUST-10",
+    "firstName": "Ingrid",
+    "lastName": "Larsen",
+    "purchaseDate": "2026-06-04",
+    "productPurchased": "Wireless Headphones",
+    "price": 130.89
+  },
+  {
+    "transactionId": "TXN-1318",
+    "customerId": "CUST-10",
+    "firstName": "Ingrid",
+    "lastName": "Larsen",
+    "purchaseDate": "2026-06-04",
+    "productPurchased": "Electric Kettle",
+    "price": 132.89
+  },
+  {
+    "transactionId": "TXN-1339",
+    "customerId": "CUST-04",
+    "firstName": "James",
+    "lastName": "Whitfield",
+    "purchaseDate": "2026-06-04",
+    "productPurchased": "Blender",
+    "price": 129.16
+  },
+  {
+    "transactionId": "TXN-1343",
+    "customerId": "CUST-03",
+    "firstName": "Maria",
+    "lastName": "Gonzalez",
+    "purchaseDate": "2026-06-04",
+    "productPurchased": "Gaming Chair",
+    "price": 129.26
+  },
+  {
+    "transactionId": "TXN-1031",
+    "customerId": "CUST-07",
+    "firstName": "Liam",
+    "lastName": "O'Connor",
+    "purchaseDate": "2026-06-05",
+    "productPurchased": "Coffee Maker",
+    "price": 91.8
+  },
+  {
+    "transactionId": "TXN-1169",
+    "customerId": "CUST-07",
+    "firstName": "Liam",
+    "lastName": "O'Connor",
+    "purchaseDate": "2026-06-05",
+    "productPurchased": "Electric Kettle",
+    "price": 182.07
+  },
+  {
+    "transactionId": "TXN-1143",
+    "customerId": "CUST-09",
+    "firstName": "Noah",
+    "lastName": "Berg",
+    "purchaseDate": "2026-06-06",
+    "productPurchased": "Wireless Headphones",
+    "price": 24.28
+  },
+  {
+    "transactionId": "TXN-1036",
+    "customerId": "CUST-07",
+    "firstName": "Liam",
+    "lastName": "O'Connor",
+    "purchaseDate": "2026-06-07",
+    "productPurchased": "Yoga Mat",
+    "price": 189.93
+  },
+  {
+    "transactionId": "TXN-1180",
+    "customerId": "CUST-04",
+    "firstName": "James",
+    "lastName": "Whitfield",
+    "purchaseDate": "2026-06-07",
+    "productPurchased": "Running Shoes",
+    "price": 161.65
+  },
+  {
+    "transactionId": "TXN-1194",
+    "customerId": "CUST-09",
+    "firstName": "Noah",
+    "lastName": "Berg",
+    "purchaseDate": "2026-06-07",
+    "productPurchased": "Gaming Chair",
+    "price": 115.75
+  },
+  {
+    "transactionId": "TXN-1027",
+    "customerId": "CUST-05",
+    "firstName": "Wei",
+    "lastName": "Chen",
+    "purchaseDate": "2026-06-08",
+    "productPurchased": "Blender",
+    "price": 239.82
+  },
+  {
+    "transactionId": "TXN-1085",
+    "customerId": "CUST-06",
+    "firstName": "Fatima",
+    "lastName": "Al-Sayed",
+    "purchaseDate": "2026-06-08",
+    "productPurchased": "Reading Lamp",
+    "price": 15.75
+  },
+  {
+    "transactionId": "TXN-1293",
+    "customerId": "CUST-07",
+    "firstName": "Liam",
+    "lastName": "O'Connor",
+    "purchaseDate": "2026-06-08",
+    "productPurchased": "Yoga Mat",
+    "price": 202.5
+  },
+  {
+    "transactionId": "TXN-1117",
+    "customerId": "CUST-09",
+    "firstName": "Noah",
+    "lastName": "Berg",
+    "purchaseDate": "2026-06-09",
+    "productPurchased": "Bluetooth Speaker",
+    "price": 77.27
+  },
+  {
+    "transactionId": "TXN-1125",
+    "customerId": "CUST-02",
+    "firstName": "Daniel",
+    "lastName": "Okafor",
+    "purchaseDate": "2026-06-09",
+    "productPurchased": "Desk Organizer",
+    "price": 34.85
+  },
+  {
+    "transactionId": "TXN-1193",
+    "customerId": "CUST-08",
+    "firstName": "Aiko",
+    "lastName": "Tanaka",
+    "purchaseDate": "2026-06-09",
+    "productPurchased": "External Hard Drive",
+    "price": 149.7
+  },
+  {
+    "transactionId": "TXN-1238",
+    "customerId": "CUST-09",
+    "firstName": "Noah",
+    "lastName": "Berg",
+    "purchaseDate": "2026-06-09",
+    "productPurchased": "Desk Lamp",
+    "price": 122.43
+  },
+  {
+    "transactionId": "TXN-1314",
+    "customerId": "CUST-06",
+    "firstName": "Fatima",
+    "lastName": "Al-Sayed",
+    "purchaseDate": "2026-06-09",
+    "productPurchased": "Standing Desk",
+    "price": 193.02
+  },
+  {
+    "transactionId": "TXN-1042",
+    "customerId": "CUST-03",
+    "firstName": "Maria",
+    "lastName": "Gonzalez",
+    "purchaseDate": "2026-06-10",
+    "productPurchased": "Electric Kettle",
+    "price": 162.4
+  },
+  {
+    "transactionId": "TXN-1189",
+    "customerId": "CUST-06",
+    "firstName": "Fatima",
+    "lastName": "Al-Sayed",
+    "purchaseDate": "2026-06-10",
+    "productPurchased": "Blender",
+    "price": 130.06
+  },
+  {
+    "transactionId": "TXN-1270",
+    "customerId": "CUST-09",
+    "firstName": "Noah",
+    "lastName": "Berg",
+    "purchaseDate": "2026-06-10",
+    "productPurchased": "Notebook Set",
+    "price": 170.12
+  },
+  {
+    "transactionId": "TXN-1331",
+    "customerId": "CUST-05",
+    "firstName": "Wei",
+    "lastName": "Chen",
+    "purchaseDate": "2026-06-10",
+    "productPurchased": "Desk Organizer",
+    "price": 127.17
+  },
+  {
+    "transactionId": "TXN-1120",
+    "customerId": "CUST-02",
+    "firstName": "Daniel",
+    "lastName": "Okafor",
+    "purchaseDate": "2026-06-11",
+    "productPurchased": "Water Bottle",
+    "price": 248.46
+  },
+  {
+    "transactionId": "TXN-1335",
+    "customerId": "CUST-03",
+    "firstName": "Maria",
+    "lastName": "Gonzalez",
+    "purchaseDate": "2026-06-11",
+    "productPurchased": "Standing Desk",
+    "price": 232.71
+  },
+  {
+    "transactionId": "TXN-1136",
+    "customerId": "CUST-02",
+    "firstName": "Daniel",
+    "lastName": "Okafor",
+    "purchaseDate": "2026-06-12",
+    "productPurchased": "Phone Stand",
+    "price": 65.95
+  },
+  {
+    "transactionId": "TXN-1173",
+    "customerId": "CUST-09",
+    "firstName": "Noah",
+    "lastName": "Berg",
+    "purchaseDate": "2026-06-12",
+    "productPurchased": "Noise-Cancelling Earbuds",
+    "price": 195.61
+  },
+  {
+    "transactionId": "TXN-1235",
+    "customerId": "CUST-06",
+    "firstName": "Fatima",
+    "lastName": "Al-Sayed",
+    "purchaseDate": "2026-06-12",
+    "productPurchased": "Gaming Chair",
+    "price": 37.57
+  },
+  {
+    "transactionId": "TXN-1255",
+    "customerId": "CUST-01",
+    "firstName": "Priya",
+    "lastName": "Sharma",
+    "purchaseDate": "2026-06-12",
+    "productPurchased": "Notebook Set",
+    "price": 93.08
+  },
+  {
+    "transactionId": "TXN-1020",
+    "customerId": "CUST-08",
+    "firstName": "Aiko",
+    "lastName": "Tanaka",
+    "purchaseDate": "2026-06-13",
+    "productPurchased": "Noise-Cancelling Earbuds",
+    "price": 84.04
+  },
+  {
+    "transactionId": "TXN-1022",
+    "customerId": "CUST-01",
+    "firstName": "Priya",
+    "lastName": "Sharma",
+    "purchaseDate": "2026-06-13",
+    "productPurchased": "Office Chair",
+    "price": 227.45
+  },
+  {
+    "transactionId": "TXN-1128",
+    "customerId": "CUST-05",
+    "firstName": "Wei",
+    "lastName": "Chen",
+    "purchaseDate": "2026-06-14",
+    "productPurchased": "Reading Lamp",
+    "price": 154.78
+  },
+  {
+    "transactionId": "TXN-1170",
+    "customerId": "CUST-08",
+    "firstName": "Aiko",
+    "lastName": "Tanaka",
+    "purchaseDate": "2026-06-14",
+    "productPurchased": "External Hard Drive",
+    "price": 51.58
+  },
+  {
+    "transactionId": "TXN-1182",
+    "customerId": "CUST-02",
+    "firstName": "Daniel",
+    "lastName": "Okafor",
+    "purchaseDate": "2026-06-14",
+    "productPurchased": "Bluetooth Speaker",
+    "price": 105.27
+  },
+  {
+    "transactionId": "TXN-1057",
+    "customerId": "CUST-03",
+    "firstName": "Maria",
+    "lastName": "Gonzalez",
+    "purchaseDate": "2026-06-15",
+    "productPurchased": "External Hard Drive",
+    "price": 207.38
+  },
+  {
+    "transactionId": "TXN-1328",
+    "customerId": "CUST-08",
+    "firstName": "Aiko",
+    "lastName": "Tanaka",
+    "purchaseDate": "2026-06-15",
+    "productPurchased": "Wireless Headphones",
+    "price": 206.72
+  },
+  {
+    "transactionId": "TXN-1342",
+    "customerId": "CUST-10",
+    "firstName": "Ingrid",
+    "lastName": "Larsen",
+    "purchaseDate": "2026-06-15",
+    "productPurchased": "Wireless Mouse",
+    "price": 66.06
+  },
+  {
+    "transactionId": "TXN-1034",
+    "customerId": "CUST-03",
+    "firstName": "Maria",
+    "lastName": "Gonzalez",
+    "purchaseDate": "2026-06-16",
+    "productPurchased": "Office Chair",
+    "price": 73.69
+  },
+  {
+    "transactionId": "TXN-1084",
+    "customerId": "CUST-08",
+    "firstName": "Aiko",
+    "lastName": "Tanaka",
+    "purchaseDate": "2026-06-16",
+    "productPurchased": "Office Chair",
+    "price": 172.54
+  },
+  {
+    "transactionId": "TXN-1092",
+    "customerId": "CUST-08",
+    "firstName": "Aiko",
+    "lastName": "Tanaka",
+    "purchaseDate": "2026-06-16",
+    "productPurchased": "Office Chair",
+    "price": 108.61
+  },
+  {
+    "transactionId": "TXN-1162",
+    "customerId": "CUST-09",
+    "firstName": "Noah",
+    "lastName": "Berg",
+    "purchaseDate": "2026-06-16",
+    "productPurchased": "Wireless Headphones",
+    "price": 175.67
+  },
+  {
+    "transactionId": "TXN-1240",
+    "customerId": "CUST-02",
+    "firstName": "Daniel",
+    "lastName": "Okafor",
+    "purchaseDate": "2026-06-16",
+    "productPurchased": "Electric Kettle",
+    "price": 183.25
+  },
+  {
+    "transactionId": "TXN-1080",
+    "customerId": "CUST-09",
+    "firstName": "Noah",
+    "lastName": "Berg",
+    "purchaseDate": "2026-06-17",
+    "productPurchased": "Electric Kettle",
+    "price": 62.59
+  },
+  {
+    "transactionId": "TXN-1144",
+    "customerId": "CUST-02",
+    "firstName": "Daniel",
+    "lastName": "Okafor",
+    "purchaseDate": "2026-06-17",
+    "productPurchased": "Noise-Cancelling Earbuds",
+    "price": 92.73
+  },
+  {
+    "transactionId": "TXN-1165",
+    "customerId": "CUST-09",
+    "firstName": "Noah",
+    "lastName": "Berg",
+    "purchaseDate": "2026-06-17",
+    "productPurchased": "Desk Lamp",
+    "price": 124.51
+  },
+  {
+    "transactionId": "TXN-1217",
+    "customerId": "CUST-06",
+    "firstName": "Fatima",
+    "lastName": "Al-Sayed",
+    "purchaseDate": "2026-06-17",
+    "productPurchased": "Reading Lamp",
+    "price": 65.09
+  },
+  {
+    "transactionId": "TXN-1291",
+    "customerId": "CUST-10",
+    "firstName": "Ingrid",
+    "lastName": "Larsen",
+    "purchaseDate": "2026-06-17",
+    "productPurchased": "Backpack",
+    "price": 33.18
+  },
+  {
+    "transactionId": "TXN-1288",
+    "customerId": "CUST-06",
+    "firstName": "Fatima",
+    "lastName": "Al-Sayed",
+    "purchaseDate": "2026-06-18",
+    "productPurchased": "Notebook Set",
+    "price": 92.41
+  },
+  {
+    "transactionId": "TXN-1324",
+    "customerId": "CUST-07",
+    "firstName": "Liam",
+    "lastName": "O'Connor",
+    "purchaseDate": "2026-06-18",
+    "productPurchased": "Monitor Stand",
+    "price": 243.94
+  },
+  {
+    "transactionId": "TXN-1337",
+    "customerId": "CUST-02",
+    "firstName": "Daniel",
+    "lastName": "Okafor",
+    "purchaseDate": "2026-06-18",
+    "productPurchased": "Yoga Mat",
+    "price": 108.71
+  },
+  {
+    "transactionId": "TXN-1005",
+    "customerId": "CUST-02",
+    "firstName": "Daniel",
+    "lastName": "Okafor",
+    "purchaseDate": "2026-06-19",
+    "productPurchased": "Electric Kettle",
+    "price": 119.31
+  },
+  {
+    "transactionId": "TXN-1062",
+    "customerId": "CUST-02",
+    "firstName": "Daniel",
+    "lastName": "Okafor",
+    "purchaseDate": "2026-06-19",
+    "productPurchased": "Air Fryer",
+    "price": 42.26
+  },
+  {
+    "transactionId": "TXN-1093",
+    "customerId": "CUST-01",
+    "firstName": "Priya",
+    "lastName": "Sharma",
+    "purchaseDate": "2026-06-19",
+    "productPurchased": "Phone Stand",
+    "price": 56.73
+  },
+  {
+    "transactionId": "TXN-1138",
+    "customerId": "CUST-03",
+    "firstName": "Maria",
+    "lastName": "Gonzalez",
+    "purchaseDate": "2026-06-19",
+    "productPurchased": "Wireless Headphones",
+    "price": 18.88
+  },
+  {
+    "transactionId": "TXN-1230",
+    "customerId": "CUST-02",
+    "firstName": "Daniel",
+    "lastName": "Okafor",
+    "purchaseDate": "2026-06-19",
+    "productPurchased": "Office Chair",
+    "price": 126.49
+  },
+  {
+    "transactionId": "TXN-1231",
+    "customerId": "CUST-09",
+    "firstName": "Noah",
+    "lastName": "Berg",
+    "purchaseDate": "2026-06-19",
+    "productPurchased": "Water Bottle",
+    "price": 193.75
+  },
+  {
+    "transactionId": "TXN-1264",
+    "customerId": "CUST-09",
+    "firstName": "Noah",
+    "lastName": "Berg",
+    "purchaseDate": "2026-06-19",
+    "productPurchased": "Phone Stand",
+    "price": 191.85
+  },
+  {
+    "transactionId": "TXN-1115",
+    "customerId": "CUST-02",
+    "firstName": "Daniel",
+    "lastName": "Okafor",
+    "purchaseDate": "2026-06-21",
+    "productPurchased": "Noise-Cancelling Earbuds",
+    "price": 222.19
+  },
+  {
+    "transactionId": "TXN-1311",
+    "customerId": "CUST-02",
+    "firstName": "Daniel",
+    "lastName": "Okafor",
+    "purchaseDate": "2026-06-21",
+    "productPurchased": "Running Shoes",
+    "price": 77.29
+  },
+  {
+    "transactionId": "TXN-1088",
+    "customerId": "CUST-06",
+    "firstName": "Fatima",
+    "lastName": "Al-Sayed",
+    "purchaseDate": "2026-06-23",
+    "productPurchased": "External Hard Drive",
+    "price": 205.73
+  },
+  {
+    "transactionId": "TXN-1113",
+    "customerId": "CUST-03",
+    "firstName": "Maria",
+    "lastName": "Gonzalez",
+    "purchaseDate": "2026-06-23",
+    "productPurchased": "Desk Lamp",
+    "price": 249.38
+  },
+  {
+    "transactionId": "TXN-1183",
+    "customerId": "CUST-09",
+    "firstName": "Noah",
+    "lastName": "Berg",
+    "purchaseDate": "2026-06-23",
+    "productPurchased": "Backpack",
+    "price": 213.84
+  },
+  {
+    "transactionId": "TXN-1205",
+    "customerId": "CUST-04",
+    "firstName": "James",
+    "lastName": "Whitfield",
+    "purchaseDate": "2026-06-23",
+    "productPurchased": "Desk Organizer",
+    "price": 79.35
+  },
+  {
+    "transactionId": "TXN-1287",
+    "customerId": "CUST-10",
+    "firstName": "Ingrid",
+    "lastName": "Larsen",
+    "purchaseDate": "2026-06-23",
+    "productPurchased": "Yoga Mat",
+    "price": 241.7
+  },
+  {
+    "transactionId": "TXN-1094",
+    "customerId": "CUST-01",
+    "firstName": "Priya",
+    "lastName": "Sharma",
+    "purchaseDate": "2026-06-24",
+    "productPurchased": "Standing Desk",
+    "price": 11.37
+  },
+  {
+    "transactionId": "TXN-1106",
+    "customerId": "CUST-10",
+    "firstName": "Ingrid",
+    "lastName": "Larsen",
+    "purchaseDate": "2026-06-24",
+    "productPurchased": "Phone Stand",
+    "price": 71.76
+  },
+  {
+    "transactionId": "TXN-1226",
+    "customerId": "CUST-05",
+    "firstName": "Wei",
+    "lastName": "Chen",
+    "purchaseDate": "2026-06-24",
+    "productPurchased": "Backpack",
+    "price": 60.09
+  },
+  {
+    "transactionId": "TXN-1253",
+    "customerId": "CUST-03",
+    "firstName": "Maria",
+    "lastName": "Gonzalez",
+    "purchaseDate": "2026-06-24",
+    "productPurchased": "Noise-Cancelling Earbuds",
+    "price": 240.97
+  },
+  {
+    "transactionId": "TXN-1096",
+    "customerId": "CUST-07",
+    "firstName": "Liam",
+    "lastName": "O'Connor",
+    "purchaseDate": "2026-06-25",
+    "productPurchased": "Blender",
+    "price": 37.78
+  },
+  {
+    "transactionId": "TXN-1265",
+    "customerId": "CUST-09",
+    "firstName": "Noah",
+    "lastName": "Berg",
+    "purchaseDate": "2026-06-25",
+    "productPurchased": "Desk Lamp",
+    "price": 46.25
+  },
+  {
+    "transactionId": "TXN-1268",
+    "customerId": "CUST-06",
+    "firstName": "Fatima",
+    "lastName": "Al-Sayed",
+    "purchaseDate": "2026-06-25",
+    "productPurchased": "Mechanical Keyboard",
+    "price": 179.37
+  },
+  {
+    "transactionId": "TXN-1338",
+    "customerId": "CUST-02",
+    "firstName": "Daniel",
+    "lastName": "Okafor",
+    "purchaseDate": "2026-06-25",
+    "productPurchased": "Desk Lamp",
+    "price": 131.4
+  },
+  {
+    "transactionId": "TXN-1109",
+    "customerId": "CUST-02",
+    "firstName": "Daniel",
+    "lastName": "Okafor",
+    "purchaseDate": "2026-06-26",
+    "productPurchased": "Reading Lamp",
+    "price": 39.56
+  },
+  {
+    "transactionId": "TXN-1277",
+    "customerId": "CUST-07",
+    "firstName": "Liam",
+    "lastName": "O'Connor",
+    "purchaseDate": "2026-06-26",
+    "productPurchased": "Reading Lamp",
+    "price": 88.09
+  },
+  {
+    "transactionId": "TXN-1100",
+    "customerId": "CUST-07",
+    "firstName": "Liam",
+    "lastName": "O'Connor",
+    "purchaseDate": "2026-06-27",
+    "productPurchased": "Phone Stand",
+    "price": 149.82
+  },
+  {
+    "transactionId": "TXN-1178",
+    "customerId": "CUST-03",
+    "firstName": "Maria",
+    "lastName": "Gonzalez",
+    "purchaseDate": "2026-06-27",
+    "productPurchased": "Webcam",
+    "price": 248.33
+  },
+  {
+    "transactionId": "TXN-1284",
+    "customerId": "CUST-06",
+    "firstName": "Fatima",
+    "lastName": "Al-Sayed",
+    "purchaseDate": "2026-06-27",
+    "productPurchased": "Notebook Set",
+    "price": 25.4
+  },
+  {
+    "transactionId": "TXN-1303",
+    "customerId": "CUST-10",
+    "firstName": "Ingrid",
+    "lastName": "Larsen",
+    "purchaseDate": "2026-06-27",
+    "productPurchased": "Yoga Mat",
+    "price": 96.63
+  },
+  {
+    "transactionId": "TXN-1344",
+    "customerId": "CUST-05",
+    "firstName": "Wei",
+    "lastName": "Chen",
+    "purchaseDate": "2026-06-27",
+    "productPurchased": "Air Fryer",
+    "price": 162.49
+  },
+  {
+    "transactionId": "TXN-1051",
+    "customerId": "CUST-05",
+    "firstName": "Wei",
+    "lastName": "Chen",
+    "purchaseDate": "2026-06-28",
+    "productPurchased": "Monitor Stand",
+    "price": 247.32
+  },
+  {
+    "transactionId": "TXN-1073",
+    "customerId": "CUST-07",
+    "firstName": "Liam",
+    "lastName": "O'Connor",
+    "purchaseDate": "2026-06-28",
+    "productPurchased": "Mechanical Keyboard",
+    "price": 46.93
+  },
+  {
+    "transactionId": "TXN-1130",
+    "customerId": "CUST-08",
+    "firstName": "Aiko",
+    "lastName": "Tanaka",
+    "purchaseDate": "2026-06-28",
+    "productPurchased": "Notebook Set",
+    "price": 33.54
+  },
+  {
+    "transactionId": "TXN-1185",
+    "customerId": "CUST-09",
+    "firstName": "Noah",
+    "lastName": "Berg",
+    "purchaseDate": "2026-06-28",
+    "productPurchased": "Bluetooth Speaker",
+    "price": 129.05
+  },
+  {
+    "transactionId": "TXN-1190",
+    "customerId": "CUST-02",
+    "firstName": "Daniel",
+    "lastName": "Okafor",
+    "purchaseDate": "2026-06-28",
+    "productPurchased": "Wireless Mouse",
+    "price": 97.28
+  },
+  {
+    "transactionId": "TXN-1200",
+    "customerId": "CUST-07",
+    "firstName": "Liam",
+    "lastName": "O'Connor",
+    "purchaseDate": "2026-06-28",
+    "productPurchased": "Air Fryer",
+    "price": 39.88
+  },
+  {
+    "transactionId": "TXN-1233",
+    "customerId": "CUST-10",
+    "firstName": "Ingrid",
+    "lastName": "Larsen",
+    "purchaseDate": "2026-06-28",
+    "productPurchased": "Blender",
+    "price": 194.64
+  },
+  {
+    "transactionId": "TXN-1152",
+    "customerId": "CUST-09",
+    "firstName": "Noah",
+    "lastName": "Berg",
+    "purchaseDate": "2026-06-29",
+    "productPurchased": "Backpack",
+    "price": 16.23
+  },
+  {
+    "transactionId": "TXN-1157",
+    "customerId": "CUST-10",
+    "firstName": "Ingrid",
+    "lastName": "Larsen",
+    "purchaseDate": "2026-06-29",
+    "productPurchased": "Air Fryer",
+    "price": 40.93
+  },
+  {
+    "transactionId": "TXN-1029",
+    "customerId": "CUST-02",
+    "firstName": "Daniel",
+    "lastName": "Okafor",
+    "purchaseDate": "2026-06-30",
+    "productPurchased": "Mechanical Keyboard",
+    "price": 40.55
+  },
+  {
+    "transactionId": "TXN-1052",
+    "customerId": "CUST-10",
+    "firstName": "Ingrid",
+    "lastName": "Larsen",
+    "purchaseDate": "2026-06-30",
+    "productPurchased": "External Hard Drive",
+    "price": 108.57
+  },
+  {
+    "transactionId": "TXN-1149",
+    "customerId": "CUST-06",
+    "firstName": "Fatima",
+    "lastName": "Al-Sayed",
+    "purchaseDate": "2026-06-30",
+    "productPurchased": "Notebook Set",
+    "price": 10.44
+  },
+  {
+    "transactionId": "TXN-1249",
+    "customerId": "CUST-01",
+    "firstName": "Priya",
+    "lastName": "Sharma",
+    "purchaseDate": "2026-06-30",
+    "productPurchased": "Blender",
+    "price": 61.31
+  },
+  {
+    "transactionId": "TXN-1297",
+    "customerId": "CUST-02",
+    "firstName": "Daniel",
+    "lastName": "Okafor",
+    "purchaseDate": "2026-06-30",
+    "productPurchased": "Standing Desk",
+    "price": 167.61
+  },
+  {
+    "transactionId": "TXN-1002",
+    "customerId": "CUST-03",
+    "firstName": "Maria",
+    "lastName": "Gonzalez",
+    "purchaseDate": "2026-07-01",
+    "productPurchased": "Reading Lamp",
+    "price": 211.42
+  },
+  {
+    "transactionId": "TXN-1203",
+    "customerId": "CUST-08",
+    "firstName": "Aiko",
+    "lastName": "Tanaka",
+    "purchaseDate": "2026-07-01",
+    "productPurchased": "Coffee Maker",
+    "price": 230.32
+  },
+  {
+    "transactionId": "TXN-1229",
+    "customerId": "CUST-01",
+    "firstName": "Priya",
+    "lastName": "Sharma",
+    "purchaseDate": "2026-07-01",
+    "productPurchased": "Webcam",
+    "price": 21.85
+  },
+  {
+    "transactionId": "TXN-1247",
+    "customerId": "CUST-07",
+    "firstName": "Liam",
+    "lastName": "O'Connor",
+    "purchaseDate": "2026-07-01",
+    "productPurchased": "Wireless Headphones",
+    "price": 121.26
+  },
+  {
+    "transactionId": "TXN-1262",
+    "customerId": "CUST-01",
+    "firstName": "Priya",
+    "lastName": "Sharma",
+    "purchaseDate": "2026-07-01",
+    "productPurchased": "Notebook Set",
+    "price": 99.11
+  },
+  {
+    "transactionId": "TXN-1292",
+    "customerId": "CUST-08",
+    "firstName": "Aiko",
+    "lastName": "Tanaka",
+    "purchaseDate": "2026-07-01",
+    "productPurchased": "Gaming Chair",
+    "price": 62.35
+  },
+  {
+    "transactionId": "TXN-1320",
+    "customerId": "CUST-03",
+    "firstName": "Maria",
+    "lastName": "Gonzalez",
+    "purchaseDate": "2026-07-01",
+    "productPurchased": "Notebook Set",
+    "price": 190.95
+  },
+  {
+    "transactionId": "TXN-1077",
+    "customerId": "CUST-03",
+    "firstName": "Maria",
+    "lastName": "Gonzalez",
+    "purchaseDate": "2026-07-02",
+    "productPurchased": "Noise-Cancelling Earbuds",
+    "price": 27.81
+  },
+  {
+    "transactionId": "TXN-1133",
+    "customerId": "CUST-10",
+    "firstName": "Ingrid",
+    "lastName": "Larsen",
+    "purchaseDate": "2026-07-02",
+    "productPurchased": "Gaming Chair",
+    "price": 146.55
+  },
+  {
+    "transactionId": "TXN-1214",
+    "customerId": "CUST-03",
+    "firstName": "Maria",
+    "lastName": "Gonzalez",
+    "purchaseDate": "2026-07-02",
+    "productPurchased": "Yoga Mat",
+    "price": 79.89
+  },
+  {
+    "transactionId": "TXN-1069",
+    "customerId": "CUST-10",
+    "firstName": "Ingrid",
+    "lastName": "Larsen",
+    "purchaseDate": "2026-07-03",
+    "productPurchased": "Wireless Headphones",
+    "price": 152.81
+  },
+  {
+    "transactionId": "TXN-1161",
+    "customerId": "CUST-05",
+    "firstName": "Wei",
+    "lastName": "Chen",
+    "purchaseDate": "2026-07-03",
+    "productPurchased": "Reading Lamp",
+    "price": 84.21
+  },
+  {
+    "transactionId": "TXN-1209",
+    "customerId": "CUST-02",
+    "firstName": "Daniel",
+    "lastName": "Okafor",
+    "purchaseDate": "2026-07-03",
+    "productPurchased": "Bluetooth Speaker",
+    "price": 159.29
+  },
+  {
+    "transactionId": "TXN-1223",
+    "customerId": "CUST-10",
+    "firstName": "Ingrid",
+    "lastName": "Larsen",
+    "purchaseDate": "2026-07-03",
+    "productPurchased": "Office Chair",
+    "price": 125.97
+  },
+  {
+    "transactionId": "TXN-1252",
+    "customerId": "CUST-03",
+    "firstName": "Maria",
+    "lastName": "Gonzalez",
+    "purchaseDate": "2026-07-03",
+    "productPurchased": "Gaming Chair",
+    "price": 134.78
+  },
+  {
+    "transactionId": "TXN-1305",
+    "customerId": "CUST-03",
+    "firstName": "Maria",
+    "lastName": "Gonzalez",
+    "purchaseDate": "2026-07-04",
+    "productPurchased": "External Hard Drive",
+    "price": 91.94
+  },
+  {
+    "transactionId": "TXN-1326",
+    "customerId": "CUST-04",
+    "firstName": "James",
+    "lastName": "Whitfield",
+    "purchaseDate": "2026-07-04",
+    "productPurchased": "Wireless Mouse",
+    "price": 134.03
+  },
+  {
+    "transactionId": "TXN-1334",
+    "customerId": "CUST-01",
+    "firstName": "Priya",
+    "lastName": "Sharma",
+    "purchaseDate": "2026-07-04",
+    "productPurchased": "Office Chair",
+    "price": 204.73
+  },
+  {
+    "transactionId": "TXN-1340",
+    "customerId": "CUST-06",
+    "firstName": "Fatima",
+    "lastName": "Al-Sayed",
+    "purchaseDate": "2026-07-04",
+    "productPurchased": "Standing Desk",
+    "price": 229.69
+  },
+  {
+    "transactionId": "TXN-1016",
+    "customerId": "CUST-02",
+    "firstName": "Daniel",
+    "lastName": "Okafor",
+    "purchaseDate": "2026-07-05",
+    "productPurchased": "Coffee Maker",
+    "price": 244.66
+  },
+  {
+    "transactionId": "TXN-1011",
+    "customerId": "CUST-01",
+    "firstName": "Priya",
+    "lastName": "Sharma",
+    "purchaseDate": "2026-07-06",
+    "productPurchased": "Water Bottle",
+    "price": 13.38
+  },
+  {
+    "transactionId": "TXN-1049",
+    "customerId": "CUST-08",
+    "firstName": "Aiko",
+    "lastName": "Tanaka",
+    "purchaseDate": "2026-07-06",
+    "productPurchased": "Yoga Mat",
+    "price": 225.84
+  },
+  {
+    "transactionId": "TXN-1055",
+    "customerId": "CUST-01",
+    "firstName": "Priya",
+    "lastName": "Sharma",
+    "purchaseDate": "2026-07-06",
+    "productPurchased": "Desk Organizer",
+    "price": 153.99
+  },
+  {
+    "transactionId": "TXN-1074",
+    "customerId": "CUST-04",
+    "firstName": "James",
+    "lastName": "Whitfield",
+    "purchaseDate": "2026-07-06",
+    "productPurchased": "Monitor Stand",
+    "price": 116.69
+  },
+  {
+    "transactionId": "TXN-1078",
+    "customerId": "CUST-07",
+    "firstName": "Liam",
+    "lastName": "O'Connor",
+    "purchaseDate": "2026-07-06",
+    "productPurchased": "Wireless Headphones",
+    "price": 30.32
+  },
+  {
+    "transactionId": "TXN-1121",
+    "customerId": "CUST-02",
+    "firstName": "Daniel",
+    "lastName": "Okafor",
+    "purchaseDate": "2026-07-06",
+    "productPurchased": "Reading Lamp",
+    "price": 113.26
+  },
+  {
+    "transactionId": "TXN-1166",
+    "customerId": "CUST-03",
+    "firstName": "Maria",
+    "lastName": "Gonzalez",
+    "purchaseDate": "2026-07-06",
+    "productPurchased": "Coffee Maker",
+    "price": 231.58
+  },
+  {
+    "transactionId": "TXN-1254",
+    "customerId": "CUST-10",
+    "firstName": "Ingrid",
+    "lastName": "Larsen",
+    "purchaseDate": "2026-07-06",
+    "productPurchased": "Notebook Set",
+    "price": 84.78
+  }
+]

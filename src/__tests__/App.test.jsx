@@ -11,7 +11,7 @@ describe('App', () => {
   });
 
   it('shows a loading indicator while transactions are being fetched', () => {
-    fetchTransactions.mockReturnValue(new Promise(() => {})); // never resolves
+    fetchTransactions.mockReturnValue(new Promise(() => {}));
     render(<App />);
     expect(screen.getByText(/fetching transactions/i)).toBeInTheDocument();
   });
